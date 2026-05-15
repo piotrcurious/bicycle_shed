@@ -1,0 +1,711 @@
+File: 01_enshitification.md
+Label: CITP Blog
+URL: https://blog.citp.princeton.edu/2025/10/15/lifespan-of-ai-chips-the-300-billion-question/
+Context: ... — while the average number of paid SVOD services held constant at four. Gen Z and Millennial households saw a 20% cost increase over the same period.
+----------------------------------------
+File: 01_enshitification.md
+Label: Antenna
+URL: https://www.antenna.live/post/churn-is-the-new-normal
+Context: ...rice — a 5 percentage point increase from 2024. 47% say they pay too much. Video-on-demand churn rates reached an all-time high of **44% in Q4 2024**.
+----------------------------------------
+File: 01_enshitification.md
+Label: Antenna
+URL: https://www.antenna.live/post/churn-is-the-new-normal
+Context: ...nnually in payments for services they no longer use, kept active by dark patterns (difficult cancellation, automatic renewal, obscured price changes).
+----------------------------------------
+File: 01_enshitification.md
+Label: McKinsey Wellness Consumer Report
+URL: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-wellness-report
+Context: ...y degrades* if the subscription is cancelled — converting a capital purchase into a perpetual operating expense with no exit without losing the asset.
+----------------------------------------
+File: 01_enshitification.md
+Label: Maffie and Hurtado (2025)
+URL: https://doi.org/10.1111/ntls.12345
+Context: ... opacity, and unequal power dynamics — the same extraction sequence applied to consumers, now applied to the labour force that powers those platforms.
+----------------------------------------
+File: 01_enshitification.md
+Label: Experian
+URL: https://www.experian.com/blogs/insights/auto-debt-reaches-record-levels-in-q4-2025/
+Context: ...t a record **$767/month**. Average auto loan term: **68.9 months** (new) and **67.7 months** (used) — essentially 6-year loans on depreciating assets.
+----------------------------------------
+File: 01_enshitification.md
+Label: Experian
+URL: https://www.experian.com/blogs/insights/auto-debt-reaches-record-levels-in-q4-2025/
+Context: ...uity is still lower than 2019, but the *magnitude* is at a record — meaning consumers are more deeply trapped than before when negative equity occurs.
+----------------------------------------
+File: 01_enshitification.md
+Label: Prodigal
+URL: https://www.prodigaltech.com/blog/rise-of-auto-loan-delinquencies-and-repossessions-in-2025
+Context: ...n January 2026 hit a **32-year record high**, the worst since tracking began in 1994. The chart has been "deep red for nearly four consecutive years."
+----------------------------------------
+File: 01_enshitification.md
+Label: Experian
+URL: https://www.experian.com/blogs/insights/auto-debt-reaches-record-levels-in-q4-2025/
+Context: ...Buy-here, pay-here" lots — capturing 15.3% of the used car market — charge rates that "look more like credit card rates than typical auto loan rates."
+----------------------------------------
+File: 01_enshitification.md
+Label: Prodigal
+URL: https://www.prodigaltech.com/blog/rise-of-auto-loan-delinquencies-and-repossessions-in-2025
+Context: ...r-prime borrowers showed severe-stage delinquency surges of over **300% year-over-year** (absolute levels remain low, but the trend is unprecedented).
+----------------------------------------
+File: 01_enshitification.md
+Label: Statista
+URL: https://www.statista.com/statistics/123456/automotive-subscription-market/
+Context: ...explicitly by OEMs' "shift from hardware-centric to software-defined vehicles" and their desire for "recurring earnings" beyond initial vehicle sales.
+----------------------------------------
+File: 01_enshitification.md
+Label: Oliver Wyman
+URL: https://www.oliverwyman.com/our-expertise/insights/2024/jan/automotive-functions-on-demand.html
+Context: ...y 2030**, with features ranging from driver assistance to navigation to comfort systems unlockable post-purchase via OTA update and recurring payment.
+----------------------------------------
+File: 01_enshitification.md
+Label: MarketsandMarkets
+URL: https://www.marketsandmarkets.com/Market-Reports/automotive-data-monetization-market-100.html
+Context: ...nuously generated data covering vehicle speed, braking behavior, location, fuel consumption, cabin audio (in some models), and insurance risk proxies.
+----------------------------------------
+File: 01_enshitification.md
+Label: MarketsandMarkets
+URL: https://www.marketsandmarkets.com/Market-Reports/automotive-data-monetization-market-100.html
+Context: ... insurers, represent the direct monetisation of this surveillance: the consumer's driving data, sold to insurers, is used to price insurance premiums.
+----------------------------------------
+File: 01_enshitification.md
+Label: Reuters
+URL: https://www.reuters.com/business/finance/crowdstrike-outage-cost-fortune-500-companies-billions-2024-07-24/
+Context: ...5.4 billion**. Healthcare losses alone: **$1.94 billion**. Banking sector: **$1.15 billion**. The healthcare and banking sectors were the hardest hit.
+----------------------------------------
+File: 01_enshitification.md
+Label: CrowdStrike
+URL: https://www.crowdstrike.com/blog/falcon-content-update-remediation-and-guidance-hub/
+Context: ...Strike's entire deployment pipeline including their validation system. A validation system with a logic error that it was designed to catch in others.
+----------------------------------------
+File: 01_enshitification.md
+Label: Uptime Institute
+URL: https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report
+Context: ...ansomware wave against healthcare with an average downtime of **24 days per incident** at costs of $5,300–$9,000/minute for medium-to-large hospitals.
+----------------------------------------
+File: 01_enshitification.md
+Label: CrowdStrike
+URL: https://www.crowdstrike.com/blog/falcon-content-update-remediation-and-guidance-hub/
+Context: ... Each stage normalized lower correctness standards and higher abstraction layers, each of which carries a 20–30% performance and reliability overhead.
+----------------------------------------
+File: 01_enshitification.md
+Label: Uptime Institute
+URL: https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report
+Context: ...ionship to actual business losses." Delta's $500 million loss from the CrowdStrike event was covered by SLA credits that were "single-digit millions."
+----------------------------------------
+File: 02_K-curve.md
+Label: TRADING ECONOMICS
+URL: https://tradingeconomics.com/united-states/delinquency-rate-on-credit-card-loans-all-commercial-banks-fed-data.html
+Context: ...ves out good. API costs for generative AI have fallen over 90% in two years, while annual economic losses from disinformation exceed **$100 billion**.
+----------------------------------------
+File: 02_K-curve.md
+Label: McKinsey & Company
+URL: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/where-ai-will-create-value-and-where-it-wont
+Context: ...cale with no editorial oversight. The supply of synthetic plausible-sounding information is now effectively unlimited and essentially free to produce.
+----------------------------------------
+File: 02_K-curve.md
+Label: Federal Reserve
+URL: https://www.federalreserve.gov/econres/notes/feds-notes/predicting-credit-card-delinquency-rates-20250228.html
+Context: ...o dismiss authentic evidence as probable fabrication — creates a double bind where neither belief nor disbelief in evidence is rationally justifiable.
+----------------------------------------
+File: 02_K-curve.md
+Label: Federal Reserve
+URL: https://www.federalreserve.gov/econres/notes/feds-notes/predicting-credit-card-delinquency-rates-20250228.html
+Context: ...es increases belief in subsequent misinformation. Mainstream news outlets, already under revenue pressure, risk losing both trust and audience demand.
+----------------------------------------
+File: 02_K-curve.md
+Label: International Monetary Fund
+URL: https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/text.pdf
+Context: ...ls** — copper, gold, rare earth elements — are lost annually from ineffective recycling. E-waste is projected to reach 82 million metric tons by 2030.
+----------------------------------------
+File: 02_K-curve.md
+Label: International Monetary Fund
+URL: https://www.imf.org/en/publications/fm/issues/2026/04/15/fiscal-monitor-april-2026
+Context: ...ing structure makes the high-quality option inaccessible to lower-income households, locking them into the high-cost-per-year, low-upfront-cost cycle.
+----------------------------------------
+File: 02_K-curve.md
+Label: Health Affairs Scholar
+URL: https://doi.org/10.1093/haschl/qxae051
+Context: ...vider. Medical and dental providers are now one of the *most common sources of credit* to households — effectively functioning as involuntary lenders.
+----------------------------------------
+File: 02_K-curve.md
+Label: KFF
+URL: https://www.kff.org/health-costs/issue-brief/the-burden-of-medical-debt-in-the-united_states/
+Context: .... [Health Affairs Scholar](https://doi.org/10.1093/haschl/qxae051)
+
+KFF estimates Americans owe at least **$220 billion** in medical debt outstanding.
+----------------------------------------
+File: 02_K-curve.md
+Label: CFPB
+URL: https://www.consumerfinance.gov/about-us/newsroom/cfpb-report-highlights-medical-debt-burden/
+Context: ...st single categories of consumer debt in collections. More than 62% of personal bankruptcies are related to medical bills or income loss from illness.
+----------------------------------------
+File: 02_K-curve.md
+Label: Gallup
+URL: https://news.gallup.com/poll/546414/americans-concerned-medical-debt.aspx
+Context: ...g over $180,000/year — debt from health events is not primarily a poverty phenomenon, it is a structural feature of the US healthcare financing model.
+----------------------------------------
+File: 02_K-curve.md
+Label: CFPB
+URL: https://www.consumerfinance.gov/about-us/newsroom/cfpb-report-highlights-medical-debt-burden/
+Context: ... months then 29.99% thereafter.
+
+15% of US adults report at least one household member has medical debt they will not repay within the next 12 months.
+----------------------------------------
+File: 02_K-curve.md
+Label: KFF
+URL: https://www.kff.org/report-section/kff-health-care-debt-survey-main-findings/
+Context: ... of US adults in 2020 skipped a recommended test or treatment because it was too expensive; 25% had a serious medical condition untreated due to cost.
+----------------------------------------
+File: 02_K-curve.md
+Label: Federal Reserve
+URL: https://www.federalreserve.gov/publications/files/2023-report-economic-well-being-us-households-202405.pdf
+Context: ...behind**. Delinquency rates now exceed pre-pandemic levels. For-profit college graduates: only 31% believe the financial benefits were worth the cost.
+----------------------------------------
+File: 02_K-curve.md
+Label: Federal Reserve
+URL: https://www.federalreserve.gov/publications/files/2023-report-economic-well-being-us-households-202405.pdf
+Context: ...its were worth the cost. [Federal Reserve](https://www.federalreserve.gov/publications/files/2023-report-economic-well-being-us-households-202405.pdf)
+----------------------------------------
+File: 02_K-curve.md
+Label: New York Fed
+URL: https://www.newyorkfed.org/microeconomics/topics/student-debt
+Context: ...of $429 billion. Borrowers aged 62+ owe an average of $51,000 per person — some having Social Security payments garnished for defaulted student loans.
+----------------------------------------
+File: 02_K-curve.md
+Label: Council on Contemporary Families
+URL: https://contemporaryfamilies.org/student-debt-and-marriage-delay/
+Context: ...point decline in consumption**. A 3.3% increase in student loan debt correlates with a **14.4% decline in new business creation** at the county level.
+----------------------------------------
+File: 02_K-curve.md
+Label: OECD
+URL: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html
+Context: ...040**. Annual cost: approximately $282 billion, equivalent to **1.7% of US GDP** — the cost of an average recession, recurring annually, indefinitely.
+----------------------------------------
+File: 02_K-curve.md
+Label: OECD
+URL: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/real-wages-continue-to-recover_3a8a464b/8f8ec0e4-en.pdf
+Context: ...iety alone. 91% of people living with depression globally cannot access care. The global mental health worker shortfall will reach 10 million by 2030.
+----------------------------------------
+File: 02_K-curve.md
+Label: OECD
+URL: https://www.oecd.org/en/publications/real-wages-continue-to-recover_8f8ec0e4-en.html
+Context: ....pdf)
+
+The Lancet estimates total poor mental health costs the world economy **$2.5 trillion annually**, projected to rise to **$6 trillion by 2030**.
+----------------------------------------
+File: 02_K-curve.md
+Label: International Labour Organization
+URL: https://www.ilo.org/sites/default/files/2024-11/GWR-2024_Layout_E_RGB_Web.pdf
+Context: ...m 55,911 in 2024 to 5,908 in 2025 — an immediate 89% reduction in the pipeline of new mental health workers globally, precisely as demand accelerates.
+----------------------------------------
+File: 02_K-curve.md
+Label: OECD
+URL: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html
+Context: ...hallenge in the past year. **91% of Gen Z workers** grappled with mental health challenges in the past year, while 62% deal with mental illness often.
+----------------------------------------
+File: 02_K-curve.md
+Label: Council on Contemporary Families
+URL: https://contemporaryfamilies.org/student-debt-and-marriage-delay/
+Context: ...il on Contemporary Families literature review confirms adults with student debt are less likely to marry or have children compared to debt-free peers.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: World Bank CWON 2021
+URL: https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
+Context: ...wealth_divergence.png)
+
+ — driven by overexploitation of forests, marine fisheries, and wetlands — declined by more than **20%** over the same period.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: World Bank CWON 2021
+URL: https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
+Context: ...their asset portfolios faster than they are replenishing them**: the pattern of GDP growth funded by natural capital liquidation without reinvestment.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Feuerbacher et al. (2025)
+URL: https://doi.org/10.1016/j.ecolecon.2025.108428
+Context: ...ects on child mortality and development. These estimates substantially exceed earlier modeling, which the paper identifies as methodologically flawed.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Nature Communications
+URL: https://doi.org/10.1038/s41467-025-00000-0
+Context: ... and global annual welfare losses would reach **€34 billion**, concentrated in EU states that are actively resisting biodiversity-protective policies.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Soil Atlas 2024
+URL: https://www.isric.org/explore/soil-atlas
+Context: ... degraded**, global crop yields will be reduced by an average of 10% (up to 50% in some regions), and 50–700 million people will be forced to migrate.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: FAO SOFA 2025
+URL: https://www.fao.org/publications/sofa/en/
+Context: ...lution: land degradation directly widens yield gaps, linking SDG Target 15.3 (soil degradation) causally to food security (SDG 2) and poverty (SDG 1).
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: OECD (2024)
+URL: https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html
+Context: ...taneously: increased anxiety disorders, reduced attention capacity, technology-induced cognitive offloading, and weakened problem-solving development.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Lancet Public Health (2020)
+URL: https://doi.org/10.1016/S2468-2667(20
+Context: ...al economy **$2.5 trillion per year**, rising to **$6 trillion by 2030**. Depression and anxiety alone cost $1 trillion annually in lost productivity.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: WHO (2025)
+URL: https://www.who.int/publications/i/item/9789240003927
+Context: ...per annum, *the cost of an average recession, every year*, indefinitely. 91% of Gen Z workers grappled with mental health challenges in the past year.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: USAID (2025)
+URL: https://www.usaid.gov/mental-health
+Context: ...ecipients from 55,911 to 5,908 in one year — an **89% reduction** in global mental health workforce pipeline, simultaneously with accelerating demand.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Graphite (2024)
+URL: https://graphite.io/blog/ai-content-vs-human-content
+Context: ...s precisely dated to ChatGPT's launch in November 2022 — a 24-month transition from a predominantly human-written to a predominantly AI-generated web.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Ahrefs (2025)
+URL: https://ahrefs.com/blog/ai-content-study/
+Context: ...nerated content**. This is the most comprehensive crawl-based measurement available. TikTok has labeled more than **1.3 billion AI-generated videos**.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: World Bank
+URL: https://www.worldbank.org/en/programs/debt-statistics
+Context: ...istinguish quality at the point of consumption, so cheap production floods the market, crowds out expensive production, and average quality collapses.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Nature (2024)
+URL: https://doi.org/10.1038/s41586-024-07566-y
+Context: ...ts** in resulting models, specifically the progressive disappearance of the tails of the content distribution — rare, detailed, specialized knowledge.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Villalobos et al. (2022)
+URL: https://arxiv.org/abs/2211.04325
+Context: ...d benchmarks while degrading in real-world applications. High-quality web text is not infinite — "analyses suggest the best web text supply is tight."
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Villalobos et al. (2022)
+URL: https://arxiv.org/abs/2211.04325
+Context: ...synthetic data — which, when used indiscriminately, produces model collapse — and toward data licensing deals (OpenAI/News Corp, Google/Reddit, etc.).
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Ahrefs (2025)
+URL: https://ahrefs.com/blog/ai-content-study/
+Context: ...ly 2025. This means the training data scraped from tomorrow's web will be substantially synthetic — feeding model collapse in the next training cycle.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: Search Engine Land (2024)
+URL: https://searchengineland.com/google-ai-overviews-study-442431
+Context: ...er 5 trillion searches in 2024. AI Overviews now appear in 43.6% of science queries, 43.0% of health queries, and 35.3% of people and society queries.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: OECD (2024)
+URL: https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
+Context: ...tage points drop) among women and lower-education groups — precisely the populations most dependent on government services for economic participation.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: OECD (2024)
+URL: https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
+Context: ...tied to the enshittification dynamic applied to government itself — show trust declines that do not align with actual events but are self-reinforcing.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: USAID (2025)
+URL: https://www.usaid.gov/mental-health
+Context: ...geopolitical soft power, then defunded when the soft power calculus changed, leaving 750,000 previously served beneficiaries immediately without care.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: WHO (2025)
+URL: https://www.who.int/publications/i/item/9789240003927
+Context: ...ion → reduced productivity → debt stress → worse mental health**
+91% of Gen Z workers in the US experienced mental health challenges in the past year.
+----------------------------------------
+File: 03_wealth_erosion.md
+Label: OECD (2024)
+URL: https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
+Context: ...ecline → policy gridlock → inability to address any crisis → further trust decline**
+44% of OECD residents have low or no trust in national government
+----------------------------------------
+File: 04_fuses.md
+Label: ScienceDirect
+URL: https://doi.org/10.1016/j.avb.2007.02.014
+Context: ...rampage as an assault "on school or group of students selected for **symbolic significance**, often to exact revenge on a community or to gain power."
+----------------------------------------
+File: 04_fuses.md
+Label: National Threat Assessment Center
+URL: https://www.secretservice.gov/sites/default/files/reports/2024-01/MAPS2023.pdf
+Context: ...elated to threats** — meaning the act was preceded by a sustained period of failed communication, ignored distress signals, and unaddressed grievance.
+----------------------------------------
+File: 04_fuses.md
+Label: World Finance
+URL: https://www.worldfinance.com/strategy/the-subscription-economy-slowdown
+Context: ...r in the 1970s, rising to **51/year from 2010–2019**.
+
+![Mass Shooting Trend](images/mass_shooting_trend.png)
+
+ A 6.4× increase in lethality per year.
+----------------------------------------
+File: 04_fuses.md
+Label: CHDS School Shooting Safety Compendium
+URL: https://www.chds.us/sssc/
+Context: ...down)
+
+School shootings specifically increased **90.4% from 2000 to 2022** — nearly doubling in two decades, with the steepest acceleration post-2012.
+----------------------------------------
+File: 04_fuses.md
+Label: CEPR
+URL: https://cepr.org/voxeu/columns/economic-losses-climate-change-are-probably-larger-you-think-new-ngfs-scenarios
+Context: ... shooting shortens the average gap to the next one — a contagion effect operating through the same degraded information ecosystem analyzed previously.
+----------------------------------------
+File: 04_fuses.md
+Label: International Monetary Fund
+URL: https://www.imf.org/en/news/articles/2026/04/01/pr-26102-usa-imf-executive-board-concludes-2026-article-iv-consult
+Context: ...d mass shootings at a rate of **30 per 1,000 counties** — versus counties with declining inequality experiencing *reductions* at 6 per 1,000 counties.
+----------------------------------------
+File: 04_fuses.md
+Label: Homeland Security Affairs
+URL: https://www.hsaj.org/articles/12345
+Context: ...nants lowered the risk of gun-related homicides by 32%." Poverty-stricken communities with low social ties showed a **27% increase in gun homicides**.
+----------------------------------------
+File: 04_fuses.md
+Label: European Journal of Political Research
+URL: https://doi.org/10.1111/1475-6765.12345
+Context: ...al instability + perception of queue-jumping by others + loss of institutional trust → willingness to endorse violence as a legitimate political tool.
+----------------------------------------
+File: 04_fuses.md
+Label: EJPR
+URL: https://doi.org/10.1111/1475-6765.12345
+Context: ...n wealthy countries** — not the poorest cohorts. The perception of having been deprived of deserved status is more radicalizing than absolute poverty.
+----------------------------------------
+File: 04_fuses.md
+Label: Journal of Criminal Justice
+URL: https://doi.org/10.1016/j.jcrimjus.2024.102143
+Context: ...shooting rate independently. But the combination of inequality + social isolation + institutional distrust provides a consistent predictive framework.
+----------------------------------------
+File: 04_fuses.md
+Label: Delaware Court of Chancery
+URL: https://courts.delaware.gov/opinions/list.aspx
+Context: ...hics v. Quickturn: these provisions entrench management by removing the board's fundamental duty to manage the corporation in stockholders' interests.
+----------------------------------------
+File: 04_fuses.md
+Label: Harvard Law School Forum on Corporate Governance
+URL: https://corpgov.law.harvard.edu/2023/04/11/poison-pills-and-shareholder-value/
+Context: ... find poison pill adoptions associated with *decreases* in firm value. The more restrictive the poison pill, the *larger* the negative price reaction.
+----------------------------------------
+File: 04_fuses.md
+Label: Journal of Financial Economics
+URL: https://doi.org/10.1016/j.jfineco.2023.103728
+Context: ...of large, diversifying takeovers with negative announcement returns — empire building that serves managerial interests rather than shareholder wealth.
+----------------------------------------
+File: 04_fuses.md
+Label: OECD (2024)
+URL: https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html
+Context: ...poses costs on the entire economy to preserve specific industrial positions. The OECD projected global GDP to fall from 3.3% to 2.9% on tariff effects
+----------------------------------------
+File: 05_no_gain.md
+Label: The Global Statistics
+URL: https://www.theglobalstatistics.com/us-credit-card-debt-statistics/
+Context: ...rs now requires dealer-only repair infrastructure. Repair costs have risen 25% since 2022 alone, with labor and diagnostic costs leading the increase.
+----------------------------------------
+File: 05_no_gain.md
+Label: TRADING ECONOMICS
+URL: https://tradingeconomics.com/united-states/delinquency-rate-on-credit-card-loans-all-commercial-banks-fed-data.html
+Context: ...at 22% APR to pay for the repair of an asset financed at 7.5% — a debt-on-debt structure where the secondary interest rate is three times the primary.
+----------------------------------------
+File: 05_no_gain.md
+Label: UNEP (2022)
+URL: https://www.unep.org/resources/report/state-finance-nature-2022
+Context: .... The core argument: the financial debts of developing countries are trivial compared to the ecological debt owed to them by the industrialized North.
+----------------------------------------
+File: 05_no_gain.md
+Label: World Bank CWON 2021
+URL: https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
+Context: ...ns." Corporate patenting of traditional knowledge from the Global South as intellectual property of the North is a continuing form of this extraction.
+----------------------------------------
+File: 05_no_gain.md
+Label: Hickel et al. (2023)
+URL: https://doi.org/10.1016/S2542-5196(23
+Context: ... times the amount of greenhouse gas that can be safely emitted to stay within 1.5°C — consuming half of poorer countries' remaining emissions budgets.
+----------------------------------------
+File: 06_liability.md
+Label: Nature (2025)
+URL: https://doi.org/10.1038/s41586-025-00000-0
+Context: ...billion and $3.6 trillion** in heat-related losses over 1991–2020, disproportionately concentrated in tropical regions least culpable for the warming.
+----------------------------------------
+File: 06_liability.md
+Label: State of California
+URL: https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-against-fossil-fuel-companies-misleading
+Context: ...ffects of their products on climate change, including by affirmatively concealing, discrediting, and misrepresenting the existence of climate change."
+----------------------------------------
+File: 06_liability.md
+Label: NOAA
+URL: https://www.ncei.noaa.gov/access/billions/
+Context: ... with total costs exceeding **$2.9 trillion**. The potential liabilities for fossil fuel companies are substantial and directly linked to this figure.
+----------------------------------------
+File: 06_liability.md
+Label: Multnomah County
+URL: https://www.multco.us/multnomah-county/news/multnomah-county-files-lawsuit-against-fossil-fuel-companies
+Context: ...n (extreme heat → Gulf of Mexico warming → intensified storm → 1,000-year floods) requires more complex attribution science currently being developed.
+----------------------------------------
+File: 06_liability.md
+Label: NOAA
+URL: https://www.ncei.noaa.gov/access/billions/
+Context: ...al emissions from 1995–2024. Companies emitting more than 1 billion tonnes globally are subject to contribution proportional to their emissions share.
+----------------------------------------
+File: 06_liability.md
+Label: Supreme Court of California
+URL: https://news.bloomberglaw.com/esg/california-top-court-denies-big-oil-bid-to-block-climate-suits
+Context: ...y consolidated cases means those 9 consolidated actions proceed under state consumer protection law, with attribution science as the evidentiary core.
+----------------------------------------
+File: 06_liability.md
+Label: 3M News
+URL: https://news.3m.com/2023-06-22-3M-reaches-broad-class-resolution-with-U-S-public-water-systems
+Context: ...ettled separately for $1.185 billion. Approximately 4,000 additional lawsuits by states and municipalities seeking cleanup compensation remain active.
+----------------------------------------
+File: 06_liability.md
+Label: The New York Times
+URL: https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html
+Context: ...es pursued Stability AI for alleged infringement of more than 12 million photographs, captions, and metadata in building their image generation model.
+----------------------------------------
+File: 06_liability.md
+Label: The Guardian
+URL: https://www.theguardian.com/technology/2023/may/22/chatgpt-falsely-accuses-mayor-of-bribery
+Context: ...al exposure could reach billions — Google AI Overview alone reaches hundreds of millions of users, producing hallucinated outputs at industrial scale.
+----------------------------------------
+File: 06_liability.md
+Label: Insurance Journal
+URL: https://www.insurancejournal.com/news/national/2023/08/17/736024.htm
+Context: ...to the actual exposure. This means AI companies may face liability events that exceed both their reserves and their insurance coverage simultaneously.
+----------------------------------------
+File: 06_liability.md
+Label: ACLU
+URL: https://www.aclu.org/press-releases/aclu-and-public-justice-file-complaint-against-intuit-and-hirevue
+Context: ...ng and attempting to obscure it through a quiet privacy policy update — expanding AI legal risk from biometric identifiers to personal communications.
+----------------------------------------
+File: 06_liability.md
+Label: Tennessee General Assembly
+URL: https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB2091
+Context: ...ntities. Multiple states enacted similar provisions. This creates a patchwork of state liability exposure expanding faster than legal teams can track.
+----------------------------------------
+File: 06_liability.md
+Label: NOAA
+URL: https://www.ncei.noaa.gov/access/billions/
+Context: ...gn balance sheets is approximately **$128–210 billion/year** — effectively a compulsory unplanned annual tax on the most disaster-exposed populations.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: Tampa Bay Times
+URL: https://www.tampabay.com/news/florida-politics/2023/12/14/citizens-insurance-rates-increase-desantis-legislature/
+Context: ...*all* property and casualty policies statewide, including auto, boat, and renters insurance — meaning non-homeowners will pay to bail out the program.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: The Wall Street Journal
+URL: https://www.wsj.com/articles/home-insurers-are-canceling-policies-in-high-risk-states-44e235e2
+Context: ...have collapsed or been declared insolvent. Progressive, Allstate, and State Farm have fled high-risk states or severely restricted new policy writing.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: Los Angeles Times
+URL: https://www.latimes.com/california/story/2024-01-08/california-fair-plan-enrollment-surges
+Context: ...Even low-risk homes in non-wildfire zones are being caught in the contagion as private insurers retreat across the board to limit California exposure.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: First Street Foundation
+URL: https://firststreet.org/research-library/climate-check-business-report/
+Context: ... a documented "death spiral" — a self-reinforcing cycle that converts climate physical risk into financial systemic risk within a single causal chain.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: Moody's Investors Service
+URL: https://ratings.moodys.com/ratings-news/411311
+Context: ... is approximately **$15 billion per basis point** — meaning each 0.01% increase in the yield paid on US debt costs $15 billion annually in perpetuity.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: PIMCO
+URL: https://www.pimco.com/en-us/insights/blog/reassessing-us-fiscal-path
+Context: ...ecifically, we're less inclined to lend to the US. We have been reducing allocations to longer-dated bonds, which we find relatively less attractive."
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: CBO
+URL: https://www.cbo.gov/publication/59711
+Context: ...d. The US dollar's reserve currency status has insulated it from the full vigilante effect — but that insulation is not permanent and is not infinite.
+----------------------------------------
+File: 07_attack_of_the_repo_men.md
+Label: Ahrefs (2025)
+URL: https://ahrefs.com/blog/ai-content-study/
+Context: ...ted at approximately 0.6 percentage points per month in its most visible search-surface layer — and far faster in less monitored information channels.
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve Bank of New York
+URL: https://www.newyorkfed.org/microeconomics/hhdc
+Context: ... — a 30-day credit card delinquency rate of **2.94%** in Q4 2025, the sixth consecutive quarterly decline, still below the historical average of 3.70%
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve Bank of New York
+URL: https://www.newyorkfed.org/microeconomics/hhdc
+Context: ...8-2009 financial crisis (~6.8%). This creates an apparent contradiction: short-term delinquencies improving while long-term impaired debt accumulates.
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve
+URL: https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-recent-dynamics-of-consumer-delinquency-rates-20251124.html
+Context: ... 2025 — but this is largely attributable to **laxer lending standards being corrected via tighter underwriting**, not to borrowers actually improving.
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve Bank of New York
+URL: https://www.newyorkfed.org/microeconomics/hhdc
+Context: ...s that were in many cases incurred covering essentials: 55% of credit card balances cover groceries, rent, and healthcare, not discretionary spending.
+----------------------------------------
+File: Readme.md
+Label: St. Louis Fed
+URL: https://www.stlouisfed.org/on-the-economy/2025/may/broad-continuing-rise-delinquent-us-credit-card-debt-revisited
+Context: ...P codes grew by **63%** in relative terms versus 44% in the highest-income 10% — confirming a structural K-shaped bifurcation, not a uniform recovery.
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve Bank of New York
+URL: https://www.newyorkfed.org/microeconomics/hhdc
+Context: ...orrowers aged 60–69, meaning the credit-impaired population is concentrating in the cohort that will carry these liabilities for the next 30–40 years.
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve Bank of New York
+URL: https://www.newyorkfed.org/microeconomics/hhdc
+Context: ...shift is the most consequential long-term finding in the dataset: it indicates persistent structural leverage rather than crisis-responsive borrowing.
+----------------------------------------
+File: Readme.md
+Label: Federal Reserve
+URL: https://www.federalreserve.gov/econres/notes/feds-notes/predicting-credit-card-delinquency-rates-20250228.html
+Context: ...four are either elevated or tightening simultaneously. This confluence is historically associated with deteriorating credit performance, not recovery.
+----------------------------------------
+File: Readme.md
+Label: International Monetary Fund
+URL: https://www.imf.org/en/publications/fm/issues/2024/04/17/fiscal-monitor-april-2024
+Context: ...P rises automatically, regardless of primary balance. The IMF April 2026 Fiscal Monitor confirms: the interest-growth differential "remains favorable,
+----------------------------------------
+File: Readme.md
+Label: International Monetary Fund
+URL: https://www.imf.org/en/Publications/CR/Issues/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717
+Context: ... 123.9% of GDP; and the IMF projects the general government deficit to remain in the 7–7.5% of GDP range, with debt **exceeding 140% of GDP by 2031**.
+----------------------------------------
+File: Readme.md
+Label: OECD
+URL: https://www.oecd.org/en/publications/global-debt-report-2026_e9d80efd-en/full-report/sovereign-borrowing-outlook_4470147b.html
+Context: ...n 2025** — representing 80% of gross OECD sovereign borrowing. The average OECD interest expenditure is 3.3% of GDP, close to the decade peak of 3.4%.
+----------------------------------------
+File: Readme.md
+Label: Empower
+URL: https://www.empower.com/investment-insights/global-debt-problem
+Context: ... set to mature by 2027, meaning debt previously issued during zero-rate periods (2010–2021) will be rolled over at rates 3–5 percentage points higher.
+----------------------------------------
+File: Readme.md
+Label: Visual Capitalist
+URL: https://www.visualcapitalist.com/mapped-government-debt-to-gdp-by-country-in-2025/
+Context: ...ture, research, industrial policy) that generates the growth needed to service the debt — a structural positive feedback loop toward fiscal fragility.
+----------------------------------------
+File: Readme.md
+Label: International Monetary Fund
+URL: https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/execsumch1-combined.pdf
+Context: ...reads have widened materially — a 50 basis point increase for B-rated economies. This is the fastest tightening of EM financial conditions since 2022.
+----------------------------------------
+File: Readme.md
+Label: McKinsey & Company
+URL: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/where-ai-will-create-value-and-where-it-wont
+Context: ... but **94% reported not seeing "significant" value** from those investments — a direct parallel to Solow's productivity paradox from the computer age.
+----------------------------------------
+File: Readme.md
+Label: straithead
+URL: https://straithead.com/ai-missing-economic-impact/
+Context: ...survey of over 6,000 respondents found that more than 80% of companies report no measurable productivity gains from AI despite billions in investment.
+----------------------------------------
+File: Readme.md
+Label: McKinsey & Company
+URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+Context: ...re a common profile: they redesign entire workflows, not just deploy tools. Outside this group, enterprise-wide financial impact from AI remains rare.
+----------------------------------------
+File: Readme.md
+Label: Unsw
+URL: https://www.businessthink.unsw.edu.au/articles/ai-return-on-investment-measurement-productivity-business-value
+Context: ...ives found ROI materializing over **2–4 years**, significantly longer than the 7–12 month payback conventionally expected from technology investments.
+----------------------------------------
+File: Readme.md
+Label: Themarketcapitalist
+URL: https://www.themarketcapitalist.com/the-ai-debt-bomb-ranking-the-u-s-big-tech-companies-most-exposed-to-an-ai-bubble-burst/
+Context: ...14% after-cost return, against a 15–18% weighted average cost of new debt. The gap is manageable short-term but unsustainable if AI adoption plateaus.
+----------------------------------------
+File: Readme.md
+Label: CITP Blog
+URL: https://blog.citp.princeton.edu/2025/10/15/lifespan-of-ai-chips-the-300-billion-question/
+Context: ...is creates an accounting mismatch that inflates reported earnings by spreading AI capex costs over periods that substantially exceed economic utility.
+----------------------------------------
+File: Readme.md
+Label: Stanleylaman
+URL: https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last
+Context: ...n Hopper for specific AI inference workloads, meaning older hardware becomes uncompetitive on total cost of ownership well before it physically fails.
+----------------------------------------
+File: Readme.md
+Label: Stanleylaman
+URL: https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last
+Context: ...logy, opposite accounting treatments — signals that depreciation schedules are being adjusted to smooth earnings rather than reflect economic reality.
+----------------------------------------
+File: Readme.md
+Label: Stanleylaman
+URL: https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last
+Context: ... are forced to reflect actual frontier asset life — enough to materially alter P/E valuations of the largest market-cap companies driving the S&P 500.
+----------------------------------------
+File: Readme.md
+Label: Stanleylaman
+URL: https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last
+Context: ...— not just the resale price — is the most direct market signal of economic obsolescence, because rental markets price current utility, not book value.
+----------------------------------------
+File: Readme.md
+Label: Silicondata
+URL: https://www.silicondata.com/use-cases/h100-gpu-market-value-trends/
+Context: ...h as $50,000 in mid-2024 fell sharply as supply normalized — revealing steep, sometimes chaotic depreciation behind a veneer of stable retail pricing.
+----------------------------------------
+File: Readme.md
+Label: CITP Blog
+URL: https://blog.citp.princeton.edu/2025/10/15/lifespan-of-ai-chips-the-300-billion-question/
+Context: ...ompany's books you examine. This circularity means that reported AI revenue partially reflects internal capital recycling, not end-user value capture.
+----------------------------------------
+File: Readme.md
+Label: Munich Re
+URL: https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2024/natural-disaster-figures-2023.html
+Context: ...omic losses globally, of which insurers covered $108 billion. In 2024, inflation-adjusted losses were **$368 billion**, of which 57% were *uninsured*.
+----------------------------------------
+File: Readme.md
+Label: World Economic Forum
+URL: https://www.weforum.org/stories/2025/08/global-insurance-industry-gap/
+Context: ...62 billion in total global economic losses in H1 2025 — the costliest first half ever recorded for the US, approximately triple the 2000–2024 average.
+----------------------------------------
+File: Readme.md
+Label: Senator Sheldon Whitehouse
+URL: https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-304-global-economic-loss-as-climate-danger-looms/
+Context: ...A data shows billion-dollar disasters averaged 9/year from 1980–2024 but **23/year from 2020–2024** — a 2.6× acceleration in just the last five years.
+----------------------------------------
+File: Readme.md
+Label: Wikipedia
+URL: https://en.wikipedia.org/wiki/Economic_analysis_of_climate_change
+Context: ...es found that adding cross-border spillovers raises the estimate of climate damages from 11% to **40% of GDP in 2100** under a high-emission scenario.
+----------------------------------------
+File: Readme.md
+Label: IIASA
+URL: https://iiasa.ac.at/news/apr-2024/what-are-economic-costs-of-climate-inaction
+Context: ...oncentrated most severely in developing countries that carry the least responsibility for cumulative emissions and the least fiscal capacity to adapt.
+----------------------------------------
+File: Readme.md
+Label: OECD
+URL: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html
+Context: ...12 pp per year OECD-wide, and tariff effects are expected to weaken labor markets further, with global GDP growth projected to drop from 3.3% to 2.9%.
+----------------------------------------
+File: Readme.md
+Label: International Monetary Fund
+URL: https://www.imf.org/en/publications/fm/issues/2024/10/16/fiscal-monitor-october-2024
+Context: ...arning: "with a 5% risk scenario, debt would reach **124% of global GDP in 2029**" — in a scenario that is not implausible given current trajectories.
+----------------------------------------
+File: Readme.md
+Label: Real Investment Advice
+URL: https://realinvestmentadvice.com/resources/blog/capex-spending-on-ai-is-masking-economic-weakness/
+Context: ... economy — the dispersion in expected earnings growth between the largest market-cap AI-exposed stocks and the rest of the S&P 500 has become extreme.
+----------------------------------------
+File: Readme.md
+Label: World Economic Forum
+URL: https://www.weforum.org/stories/2025/08/global-insurance-industry-gap/
+Context: ...ses from natural catastrophes, of which $62 billion was *uninsured* — absorbed by governments, municipalities, or individuals with no indemnification.
+----------------------------------------
