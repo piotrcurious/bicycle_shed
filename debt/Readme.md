@@ -10,9 +10,9 @@ Now I have enough primary data for genuine iterative analysis. Let me work throu
 
 ### The K-Shape Deception in Delinquency Data
 
-The headline number — a 30-day credit card delinquency rate of **3.1%** in Q1 2024, the sixth consecutive quarterly decline, still below the historical average of 3.70% [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc) — appears reassuring. It is structurally misleading.
+The headline number — a 30-day credit card delinquency rate of **3.1%** in Q1 2024 (dropping to 2.94% by Q4 2025 according to FRED), the sixth consecutive quarterly decline, still below the historical average of 3.70% [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc) — appears reassuring. It is structurally misleading.
 
-**First inference from the data split:** The 90-day+ delinquency rate reached **8.9%** in Q4 2023 — the highest since 2011, and nearly double the peak seen during the 2008-2009 financial crisis (~6.8%). This creates an apparent contradiction: short-term delinquencies improving while long-term impaired debt accumulates. [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc)
+**First inference from the data split:** The 90-day+ delinquency rate reached **8.9%** in Q4 2023 (surpassing 13% by Q1 2026 per NY Fed/YCharts) — the highest since 2011, and nearly double the peak seen during the 2008-2009 financial crisis (~6.8%). This creates an apparent contradiction: short-term delinquencies improving while long-term impaired debt accumulates. [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc)
 
 The resolution of this contradiction is non-trivial. Federal Reserve analysis of the CCP/Equifax panel confirms that credit card and auto delinquency rates "started to flatten" in quarters leading to Q4 2023 — but this is largely attributable to **laxer lending standards being corrected via tighter underwriting**, not to borrowers actually improving. [Federal Reserve](https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-recent-dynamics-of-consumer-delinquency-rates-20231124.html) Fewer bad loans are being originated. The old bad loans are still there, worsening.
 
