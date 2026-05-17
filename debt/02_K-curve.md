@@ -35,7 +35,7 @@ This is the most underanalyzed dimension of the debt problem because it operates
 
 ### The Information Market Failure
 
-A 2023 research paper on the economics of information pollution establishes the mechanism formally: AI has asymmetrically reduced the cost of producing low-quality content while leaving the cost of high-quality content unchanged, triggering a Gresham's Law dynamic where bad information drives out good. API costs for generative AI have fallen over 90% in two years, while annual economic losses from disinformation exceed **$100 billion**. [CHEQ: The Economic Cost of Bad Actors on the Internet (2019)](https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/)
+A 2023 research paper on the economics of information pollution establishes the mechanism formally: AI has asymmetrically reduced the cost of producing low-quality content while leaving the cost of high-quality content unchanged, triggering a Gresham's Law dynamic where bad information drives out good. API costs for generative AI have fallen over 90% in two years, while annual economic losses from disinformation exceed **$100 billion**. [CHEQ: The Economic Cost of Bad Actors on the Internet (2019)](https://cheq.ai/)
 
 By May 2024, NewsGuard had identified more than 1,200 AI-generated news sites producing content at scale with no editorial oversight. The supply of synthetic plausible-sounding information is now effectively unlimited and essentially free to produce. [NewsGuard](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 
@@ -93,7 +93,7 @@ US student loan debt: **$1.841 trillion** as of Q1 2024. 42.8 million federal bo
 
 **8.4 million Americans aged 50+ hold federal student loans** with a combined balance of $429 billion. Borrowers aged 62+ owe an average of $51,000 per person — some having Social Security payments garnished for defaulted student loans. [New York Fed](https://www.newyorkfed.org/microeconomics/topics/student-debt) This is retirement savings destruction via education debt.
 
-The economic efficiency argument for education debt rests on a wage premium. That premium is real but rapidly compressing. Starting salaries for the Class of 2024 averaged $65,267 for bachelor's degree holders — against an average student debt of $29,560. Each 1 percentage point increase in a consumer's student debt-to-income ratio correlates with a **3.7 percentage point decline in consumption**. A 3.3% increase in student loan debt correlates with a **14.4% decline in new business creation** at the county level. [CCF: The Impact of Student Debt on Life Milestones](https://contemporaryfamilies.org/student-debt-impact-on-marriage-and-family-formation/)
+The economic efficiency argument for education debt rests on a wage premium. That premium is real but rapidly compressing. Starting salaries for the Class of 2024 averaged $65,267 for bachelor's degree holders — against an average student debt of $29,560. Each 1 percentage point increase in a consumer's student debt-to-income ratio correlates with a **3.7 percentage point decline in consumption**. A 3.3% increase in student loan debt correlates with a **14.4% decline in new business creation** at the county level. [CCF: The Impact of Student Debt on Life Milestones](https://contemporaryfamilies.utah.edu/publications/posts/2025/march/family-policy-symposium-kuperberg-collier-mazelis-addo-student-loans.php)
 
 ![Student Debt and Business Formation](images/student_debt_business_impact.png)
 
@@ -135,7 +135,7 @@ Gen Z is precisely the cohort that:
 
 The philosophical layer you identify is the terminal state of this process. When the information ecosystem is degraded so thoroughly that reliable decision-making becomes impossible; when every major purchase carries embedded hidden debt (subscriptions, data extraction, planned obsolescence); when education debt finances credentials whose returns are collapsing; when healthcare debt arrives randomly and unpredictably; when the government's own fiscal position precludes the safety net that would otherwise absorb these shocks — the individual response is not primarily financial. It is a loss of agency, a learned helplessness, a withdrawal from economic participation.
 
-Student debt delays marriage, delays family formation, delays homeownership. A March 2025 Council on Contemporary Families literature review confirms adults with student debt are less likely to marry or have children compared to debt-free peers. [CCF: The Impact of Student Debt on Life Milestones](https://contemporaryfamilies.org/student-debt-impact-on-marriage-and-family-formation/)
+Student debt delays marriage, delays family formation, delays homeownership. A March 2025 Council on Contemporary Families literature review confirms adults with student debt are less likely to marry or have children compared to debt-free peers. [CCF: The Impact of Student Debt on Life Milestones](https://contemporaryfamilies.utah.edu/publications/posts/2025/march/family-policy-symposium-kuperberg-collier-mazelis-addo-student-loans.php)
 
 ![Student Debt and Business Formation](images/student_debt_business_impact.png) Declining birth rates directly reduce the future labor force expected to service both sovereign debt and pension liabilities — a demographic feedback into the sovereign debt sustainability calculation.
 

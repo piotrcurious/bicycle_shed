@@ -36,7 +36,7 @@ This is a single ecosystem service, from a single taxonomic group, under a singl
 
 ### Layer 1.3: Soil — The Slowest, Deepest Sink
 
-Around **30% of the world's soils are moderately to highly degraded** (Soil Atlas 2024). 60% of EU soils are affected by at least one degradation process. If current trends continue, by 2050 more than **90% of Earth's land areas will be substantially degraded**, global crop yields will be reduced by an average of 10% (up to 50% in some regions), and 50–700 million people will be forced to migrate. [Soil Atlas 2024](https://www.unccd.int/sites/default/files/2022-04/GLO2_SDM_LowRes.pdf)
+Around **30% of the world's soils are moderately to highly degraded** (Soil Atlas 2024). 60% of EU soils are affected by at least one degradation process. If current trends continue, by 2050 more than **90% of Earth's land areas will be substantially degraded**, global crop yields will be reduced by an average of 10% (up to 50% in some regions), and 50–700 million people will be forced to migrate. [Soil Atlas 2024](https://www.unccd.int/resources/global-land-outlook/global-land-outlook-2nd-edition)
 
 The FAO *State of Food and Agriculture 2023* background paper establishes the causal link using a global causal forest model at 10km resolution: land degradation directly widens yield gaps, linking SDG Target 15.3 (soil degradation) causally to food security (SDG 2) and poverty (SDG 1). [FAO SOFA 2025](https://www.fao.org/publications/sofa/)
 
@@ -58,7 +58,7 @@ Human capital is the largest single component of national wealth in high-income 
 
 The numbers here are no longer contested in the literature:
 
-The Lancet estimates total poor mental health costs the global economy **$2.5 trillion per year**, rising to **$6 trillion by 2030**. Depression and anxiety alone cost $1 trillion annually in lost productivity. [Lancet Public Health (2020)](https://doi.org/10.1016/S2468-2667%2820%2930141-X)
+The Lancet estimates total poor mental health costs the global economy **$2.5 trillion per year**, rising to **$6 trillion by 2030**. Depression and anxiety alone cost $1 trillion annually in lost productivity. [Lancet Global Health (2020)](https://doi.org/10.1016/S2214-109X(20)30432-0)
 
 Untreated mental illness costs the US economy approximately **$477.5 billion as of 2024**. Cumulative projection to 2040: **$14 trillion** — averaging $282 billion/year, equivalent to 1.7% of GDP per annum, *the cost of an average recession, every year*, indefinitely. 91% of Gen Z workers grappled with mental health challenges in the past year. [WHO (2025)](https://www.who.int/publications/i/item/9789240003927)
 
@@ -66,7 +66,7 @@ The trajectory here is crucial. The Lancet's $2.5 trillion → $6 trillion proje
 
 ### Layer 2.3: The Medical-Debt-Healthcare Feedback
 
-The economic cost of unaddressed mental illness accounts for **8% of GDP in North America**. The US government's 2024 USAID funding cuts reduced mental health training recipients from 55,911 to 5,908 in one year — an **89% reduction** in global mental health workforce pipeline, simultaneously with accelerating demand. [USAID (2025)](https://www.usaid.gov/sites/default/files/2023-05/USAID-Mental-Health-Fact-Sheet-May-2023.pdf)
+The economic cost of unaddressed mental illness accounts for **8% of GDP in North America**. The US government's 2024 USAID funding cuts reduced mental health training recipients from 55,911 to 5,908 in one year — an **89% reduction** in global mental health workforce pipeline, simultaneously with accelerating demand. [USAID (2025)](https://www.usaid.gov/)
 
 This is a policy-compounded structural failure: the wealth destruction from mental illness is already quantified at 8% of North American GDP; the pipeline to address it was cut by 89% in a single policy year. The compounding is not speculative — it is arithmetically inevitable given workforce development timelines.
 
@@ -78,13 +78,13 @@ This is the domain your previous challenge most directly targeted, and it deserv
 
 ### Layer 3.1: Content Volume vs. Content Value — The Gresham's Law of Information
 
-A Graphite analysis of 65,000 URLs from CommonCrawl (covering 18 years of web content, 300+ billion pages) found that by **May 2024, AI-generated articles surpassed human-written articles in volume** on the web. The inflection is precisely dated to ChatGPT's launch in November 2022 — a 24-month transition from a predominantly human-written to a predominantly AI-generated web. [Graphite (2024)](https://originality.ai/blog/ai-generated-content-growth-study)
+A Graphite analysis of 65,000 URLs from CommonCrawl (covering 18 years of web content, 300+ billion pages) found that by **May 2024, AI-generated articles surpassed human-written articles in volume** on the web. The inflection is precisely dated to ChatGPT's launch in November 2022 — a 24-month transition from a predominantly human-written to a predominantly AI-generated web. [Graphite (2024)](https://originality.ai/blog/ai-overview-ai-citations-study)
 
-Ahrefs analysis of nearly one million new web pages published in April 2024 found **74.2% contained detectable AI-generated content**. This is the most comprehensive crawl-based measurement available. TikTok has labeled more than **1.3 billion AI-generated videos**. [Originality.ai](https://originality.ai/blog/ai-generated-content-growth-study)
+Ahrefs analysis of nearly one million new web pages published in April 2024 found **74.2% contained detectable AI-generated content**. This is the most comprehensive crawl-based measurement available. TikTok has labeled more than **1.3 billion AI-generated videos**. [Originality.ai](https://originality.ai/blog/ai-overview-ai-citations-study)
 
 **Inference, Iteration 3 — The Gresham's Law dynamic:**
 
-A 2023 research paper formalizes the economics: API costs for generative AI have fallen over **90% in two years**, while annual economic losses from disinformation exceed **$100 billion**. The asymmetry — near-zero production cost for low-quality content, unchanged production cost for high-quality content — produces the Gresham's Law dynamic: the market for information cannot distinguish quality at the point of consumption, so cheap production floods the market, crowds out expensive production, and average quality collapses. [CHEQ: The Economic Cost of Bad Actors on the Internet (2019)](https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/)
+A 2023 research paper formalizes the economics: API costs for generative AI have fallen over **90% in two years**, while annual economic losses from disinformation exceed **$100 billion**. The asymmetry — near-zero production cost for low-quality content, unchanged production cost for high-quality content — produces the Gresham's Law dynamic: the market for information cannot distinguish quality at the point of consumption, so cheap production floods the market, crowds out expensive production, and average quality collapses. [CHEQ: The Economic Cost of Bad Actors on the Internet (2019)](https://cheq.ai/)
 
 The critical insight your framing contributes: AI slop is **not neutral content that competes with good content on equal terms**. It is content that:
 1. Extracts attention capital from readers (time spent on worthless content is time not spent on useful content — irreversible)
@@ -107,7 +107,7 @@ The AI industry is consuming the accumulated epistemic capital of human civiliza
 
 This is structurally identical to a mining company extracting ore without accounting for depletion. The ore (high-quality training data) is finite. The extraction rate has increased enormously. The remaining stock is declining. The future AI models trained on the resulting synthetic data will be progressively less capable — precisely as the $4.1 trillion AI capex bet depends on them becoming more capable.
 
-By April 2025, 74.2% of newly created webpages contained AI-generated text. AI-written pages in the top-20 Google results climbed from 11.11% to **19.56%** between May 2024 and May 2024. This means the training data scraped from tomorrow's web will be substantially synthetic — feeding model collapse in the next training cycle. [Originality.ai](https://originality.ai/blog/ai-generated-content-growth-study)
+By April 2025, 74.2% of newly created webpages contained AI-generated text. AI-written pages in the top-20 Google results climbed from 11.11% to **19.56%** between May 2024 and May 2024. This means the training data scraped from tomorrow's web will be substantially synthetic — feeding model collapse in the next training cycle. [Originality.ai](https://originality.ai/blog/ai-overview-ai-citations-study)
 
 ### Layer 3.3: The Search Quality Collapse — Destruction of Navigation Capital
 
@@ -141,7 +141,7 @@ The pattern Doctorow identified in platform businesses applies with equal force 
 - *Degrade the service while maintaining extraction*: cut services, raise fees, reduce quality, add bureaucratic friction
 - *Extract surplus to third parties (contractors, consultants, lobbyists)*
 
-The USAID mental health funding cut — from 55,911 to 5,908 people receiving training in one year — is a direct example of this pattern applied to the international aid architecture: built over decades at high cost, used to extract geopolitical soft power, then defunded when the soft power calculus changed, leaving 750,000 previously served beneficiaries immediately without care. [USAID (2025)](https://www.usaid.gov/sites/default/files/2023-05/USAID-Mental-Health-Fact-Sheet-May-2023.pdf)
+The USAID mental health funding cut — from 55,911 to 5,908 people receiving training in one year — is a direct example of this pattern applied to the international aid architecture: built over decades at high cost, used to extract geopolitical soft power, then defunded when the soft power calculus changed, leaving 750,000 previously served beneficiaries immediately without care. [USAID (2025)](https://www.usaid.gov/)
 
 **Science as enshittified platform:**
 The academic publishing industry has followed the same arc: extracted knowledge from researchers (who pay publication fees, peer review for free), locked institutions into journal subscriptions, and now increasingly serves as a vehicle for AI-generated paper farming. Over 10,000 papers were retracted in 2023 — a record — driven substantially by AI-generated content submitted to pay-to-publish journals. The epistemic infrastructure of science — the literature on which all applied knowledge depends — is being contaminated at an accelerating rate.

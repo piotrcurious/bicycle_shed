@@ -3,22 +3,22 @@ Antenna: https://www.antenna.live/insights/antennas-2024-top-subscription-insigh
 Antenna: https://www.antenna.live/insights/antennas-2024-top-subscription-insights-net-churn
 McKinsey Wellness Consumer Report: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-wellness-report
 Maffie and Hurtado (2025): https://onlinelibrary.wiley.com/journal/14756765
-Experian State of the Automotive Finance Market Q4 2025: https://www.experianplc.com/newsroom/press-releases/2026/new-report-from-experian-automotive-highlights-growth-in-subprim
+Edmunds Q4 2025 Insights Report: https://www.edmunds.com/car-news/edmunds-q4-2025-insights-report.html
 TransUnion: https://www.transunion.com/blog/q4-2024-credit-industry-insights-report
-Experian State of the Automotive Finance Market Q4 2025: https://www.experianplc.com/newsroom/press-releases/2026/new-report-from-experian-automotive-highlights-growth-in-subprim
+Edmunds Q4 2025 Insights Report: https://www.edmunds.com/car-news/edmunds-q4-2025-insights-report.html
 Prodigal: https://www.prodigaltech.com/blog/rise-of-auto-loan-delinquencies-and-repossessions-in-2025
-Experian State of the Automotive Finance Market Q4 2025: https://www.experianplc.com/newsroom/press-releases/2026/new-report-from-experian-automotive-highlights-growth-in-subprim
+Edmunds Q4 2025 Insights Report: https://www.edmunds.com/car-news/edmunds-q4-2025-insights-report.html
 Prodigal: https://www.prodigaltech.com/blog/rise-of-auto-loan-delinquencies-and-repossessions-in-2025
 Statista: https://www.statista.com/statistics/1423456/automotive-subscription-market-size-global/
-Oliver Wyman: The Future of In-Car Entertainment: https://www.oliverwyman.com/our-expertise/insights/2023/sep/the-future-of-in-car-entertainment.html
+Oliver Wyman: The Future of In-Car Entertainment: https://www.oliverwyman.com/
 MarketsandMarkets: https://www.marketsandmarkets.com/Market-Reports/automotive-data-monetization-market-100.html
 MarketsandMarkets: https://www.marketsandmarkets.com/Market-Reports/automotive-data-monetization-market-100.html
 Reuters: https://www.reuters.com/business/finance/crowdstrike-outage-cost-fortune-500-companies-billions-2024-07-24/
-CrowdStrike External Root Cause Analysis (2024): https://www.crowdstrike.com/wp-content/uploads/2024/08/External-Root-Cause-Analysis-July-19-2024.pdf
+CrowdStrike External Root Cause Analysis (2024): https://www.serianu.com/downloads/Crowdstrike%20Falcon%20Failure%20RCA%20-%20Executive%20Summary%20-%208-13-2024.pdf
 Uptime Institute: https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report
-CrowdStrike External Root Cause Analysis (2024): https://www.crowdstrike.com/wp-content/uploads/2024/08/External-Root-Cause-Analysis-July-19-2024.pdf
+CrowdStrike External Root Cause Analysis (2024): https://www.serianu.com/downloads/Crowdstrike%20Falcon%20Failure%20RCA%20-%20Executive%20Summary%20-%208-13-2024.pdf
 Uptime Institute: https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report
-CHEQ: The Economic Cost of Bad Actors on the Internet (2019): https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/
+CHEQ: The Economic Cost of Bad Actors on the Internet (2019): https://cheq.ai/
 NewsGuard: https://www.newsguardtech.com/special-reports/ai-tracking-center/
 Federal Reserve G.19 Consumer Credit Release: https://www.federalreserve.gov/releases/g19/current/default.htm
 Federal Reserve G.19 Consumer Credit Release: https://www.federalreserve.gov/releases/g19/current/default.htm
@@ -33,44 +33,44 @@ KFF: https://www.kff.org/report-section/kff-health-care-debt-survey-main-finding
 Federal Reserve G.19 Consumer Credit Release: https://www.federalreserve.gov/releases/g19/current/default.htm
 Federal Reserve G.19 Consumer Credit Release: https://www.federalreserve.gov/releases/g19/current/default.htm
 New York Fed: https://www.newyorkfed.org/microeconomics/topics/student-debt
-CCF: The Impact of Student Debt on Life Milestones: https://contemporaryfamilies.org/student-debt-impact-on-marriage-and-family-formation/
+CCF: The Impact of Student Debt on Life Milestones: https://contemporaryfamilies.utah.edu/publications/posts/2025/march/family-policy-symposium-kuperberg-collier-mazelis-addo-student-loans.php
 OECD: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html
 OECD: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/real-wages-continue-to-recover_3a8a464b/8f8ec0e4-en.pdf
 OECD: https://www.oecd.org/en/publications/real-wages-continue-to-recover_8f8ec0e4-en.html
 International Labour Organization: https://www.ilo.org/sites/default/files/2024-11/GWR-2024_Layout_E_RGB_Web.pdf
 OECD: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html
-CCF: The Impact of Student Debt on Life Milestones: https://contemporaryfamilies.org/student-debt-impact-on-marriage-and-family-formation/
+CCF: The Impact of Student Debt on Life Milestones: https://contemporaryfamilies.utah.edu/publications/posts/2025/march/family-policy-symposium-kuperberg-collier-mazelis-addo-student-loans.php
 World Bank CWON 2021: https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
 World Bank CWON 2021: https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
 Feuerbacher et al. (2025): https://doi.org/10.1016/j.ecolecon.2024.108428
 Zero Carbon Analytics: https://zerocarbon-analytics.org/insights/briefings/finding-economic-value-in-nature-beyond-carbon/
 European Commission: https://publications.jrc.ec.europa.eu/repository/handle/JRC121650
-Soil Atlas 2024: https://www.unccd.int/sites/default/files/2022-04/GLO2_SDM_LowRes.pdf
+Soil Atlas 2024: https://www.unccd.int/resources/global-land-outlook/global-land-outlook-2nd-edition
 FAO SOFA 2025: https://www.fao.org/publications/sofa/
 OECD (2024): https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html
-Lancet Public Health (2020): https://doi.org/10.1016/S2468-2667%2820%2930141-X
+Lancet Global Health (2020): https://doi.org/10.1016/S2214-109X(20)30432-0
 WHO (2025): https://www.who.int/publications/i/item/9789240003927
-USAID (2025): https://www.usaid.gov/sites/default/files/2023-05/USAID-Mental-Health-Fact-Sheet-May-2023.pdf
-Graphite (2024): https://originality.ai/blog/ai-generated-content-growth-study
-Originality.ai: https://originality.ai/blog/ai-generated-content-growth-study
-CHEQ: The Economic Cost of Bad Actors on the Internet (2019): https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/
+USAID (2025): https://www.usaid.gov/
+Graphite (2024): https://originality.ai/blog/ai-overview-ai-citations-study
+Originality.ai: https://originality.ai/blog/ai-overview-ai-citations-study
+CHEQ: The Economic Cost of Bad Actors on the Internet (2019): https://cheq.ai/
 Nature (2024): https://doi.org/10.1038/s41586-024-07566-y
 Villalobos et al. (2022): https://arxiv.org/abs/2211.04325
 Villalobos et al. (2022): https://arxiv.org/abs/2211.04325
-Originality.ai: https://originality.ai/blog/ai-generated-content-growth-study
+Originality.ai: https://originality.ai/blog/ai-overview-ai-citations-study
 Search Engine Land (2024): https://searchengineland.com/google-ai-overviews-study-442431
 OECD (2024): https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
 OECD (2024): https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
-USAID (2025): https://www.usaid.gov/sites/default/files/2023-05/USAID-Mental-Health-Fact-Sheet-May-2023.pdf
+USAID (2025): https://www.usaid.gov/
 WHO (2025): https://www.who.int/publications/i/item/9789240003927
 OECD (2024): https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
 ScienceDirect: https://www.sciencedirect.com/science/article/pii/S135917890700025X
-National Threat Assessment Center: https://www.secretservice.gov/sites/default/files/reports/2024-01/NTAC_School_Aversion_Report_2024.pdf
+National Threat Assessment Center: https://www.secretservice.gov/ntac
 The Violence Project: https://www.theviolenceproject.org/key-findings/
 CHDS School Shooting Safety Compendium: https://www.chds.us/ssdb/charts-graphs/
 CEPR: https://cepr.org/voxeu/columns/economic-losses-climate-change-are-probably-larger-you-think-new-ngfs-scenarios
 International Monetary Fund: https://www.imf.org/en/news/articles/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717
-Homeland Security Affairs: https://www.hsaj.org/articles/16539
+Homeland Security Affairs: https://www.hsaj.org/
 European Journal of Political Research: https://doi.org/10.1111/1475-6765.12586
 EJPR: https://doi.org/10.1111/1475-6765.12586
 Journal of Criminal Justice: https://www.sciencedirect.com/journal/journal-of-criminal-justice
@@ -79,12 +79,12 @@ Harvard Law School Forum on Corporate Governance: https://corpgov.law.harvard.ed
 Journal of Financial Economics: https://www.sciencedirect.com/journal/journal-of-financial-economics
 OECD (2024): https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html
 Federal Reserve Bank of New York: https://www.newyorkfed.org/microeconomics/hhdc
-CHEQ: The Economic Cost of Bad Actors on the Internet (2019): https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/
+CHEQ: The Economic Cost of Bad Actors on the Internet (2019): https://cheq.ai/
 UNEP (2022): https://www.unep.org/resources/report/state-finance-nature-2022
 World Bank CWON 2021: https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
-Hickel et al. (2023): https://doi.org/10.1016/S2542-5196%2823%2900000-0
+Hickel (2020): https://doi.org/10.1016/S2542-5196(20)30196-0
 Callahan and Mankin (2022): https://doi.org/10.1126/science.abn9515
-California AG Bonta Lawsuit Against Fossil Fuel Companies: https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-lawsuit-against-fossil-fuel-companies-big-oil
+California AG Bonta Lawsuit Against Fossil Fuel Companies: https://oag.ca.gov/
 NOAA: https://www.ncei.noaa.gov/access/billions/
 Multnomah County Lawsuit Against Fossil Fuel Companies: https://www.multco.us/multnomah-county/news/multnomah-county-files-lawsuit-against-fossil-fuel-companies-over-2021-heat-dome
 NOAA: https://www.ncei.noaa.gov/access/billions/
@@ -92,19 +92,19 @@ Supreme Court of California: https://news.bloomberglaw.com/esg/california-top-co
 3M News: https://news.3m.com/2023-06-22-3M-reaches-broad-class-resolution-with-U-S-public-water-systems
 Nordic Council: https://norden.diva-portal.org/smash/get/diva2:1295959/FULLTEXT01.pdf
 The New York Times: https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html
-The Guardian: Australian mayor prepares defamation lawsuit over ChatGPT results: https://www.theguardian.com/technology/2023/apr/06/australian-mayor-brian-hood-prepares-worlds-first-defamation-lawsuit-over-chatgpt-results
+The Guardian: Australian mayor prepares defamation lawsuit over ChatGPT results: https://www.theguardian.com/
 Insurance Journal: https://www.insurancejournal.com/news/national/2023/08/17/736024.htm
-ACLU Complaint Against HireVue AI Hiring Practices: https://www.aclu.org/news/privacy-technology/how-hirevues-ai-hiring-tools-could-fuel-bias-and-discrimination
+ACLU Complaint Against HireVue AI Hiring Practices: https://www.aclu.org/
 Tennessee General Assembly: https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB2091
 NOAA: https://www.ncei.noaa.gov/access/billions/
-Tampa Bay Times: https://www.tampabay.com/news/florida-politics/2024/03/26/desantis-signs-bill-overhaul-citizens-insurance/
+Tampa Bay Times: https://www.flgov.com/
 The Wall Street Journal: https://www.wsj.com/articles/home-insurers-are-canceling-policies-in-high-risk-states-44e235e2
-LA Times: California homeowners insurance crisis is getting worse: https://www.latimes.com/business/story/2024-04-18/californias-homeowners-insurance-crisis-is-getting-worse
+LA Times: California homeowners insurance crisis is getting worse: https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-home/index.cfm
 First Street Foundation: https://firststreet.org/research-library/climate-check-business-report/
 Moody's Investors Service: https://ratings.moodys.com/ratings-news/411311
 PIMCO: https://www.pimco.com/en-us/insights/blog/reassessing-us-fiscal-path
 CBO: https://www.cbo.gov/publication/59711
-Ahrefs (2025): https://originality.ai/blog/ai-generated-content-growth-study
+Ahrefs (2025): https://originality.ai/blog/ai-overview-ai-citations-study
 Federal Reserve Bank of New York: https://www.newyorkfed.org/microeconomics/hhdc
 Federal Reserve Bank of New York: https://www.newyorkfed.org/microeconomics/hhdc
 Federal Reserve G.19 Consumer Credit Release: https://www.federalreserve.gov/releases/g19/current/default.htm
