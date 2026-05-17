@@ -1,100 +1,129 @@
-200 | https://arxiv.org/abs/2211.04325
-200 | https://blog.citp.princeton.edu/
-403 | https://cepr.org/voxeu/columns/economic-losses-climate-change-are-probably-larger-you-think-new-ngfs-scenarios
-200 | https://contemporaryfamilies.org/
-200 | https://contextual.ai/
-403 | https://corpgov.law.harvard.edu/2023/04/11/poison-pills-and-shareholder-value/
-200 | https://courts.delaware.gov/opinions/list.aspx
-200 | https://doi.org/10.1016/j.ecolecon.2024.108428
-200 | https://doi.org/10.1038/s41586-024-07566-y
-403 | https://doi.org/10.1093/haschl/qxae051
-200 | https://doi.org/10.1111/1475-6765.12586
-403 | https://doi.org/10.1126/science.abn9515
-200 | https://en.wikipedia.org/wiki/Economic_analysis_of_climate_change
-200 | https://firststreet.org/research-library/climate-check-business-report/
-403 | https://iiasa.ac.at/news/apr-2024/what-are-economic-costs-of-climate-inaction
-200 | https://joint-research-centre.ec.europa.eu/
-200 | https://news.3m.com/2023-06-22-3M-reaches-broad-class-resolution-with-U-S-public-water-systems
-200 | https://news.bloomberglaw.com/esg/california-top-court-denies-big-oil-bid-to-block-climate-suits
-200 | https://news.gallup.com/home.aspx
-200 | https://oag.ca.gov/
-403 | https://onlinelibrary.wiley.com/journal/14756765
-200 | https://originality.ai/
-200 | https://ratings.moodys.com/ratings-news/411311
-200 | https://realinvestmentadvice.com/resources/blog/capex-spending-on-ai-is-masking-economic-weakness/
-403 | https://searchengineland.com/google-ai-overviews-study-442431
-200 | https://sequoiacap.com/article/ais-600b-question/
-200 | https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report
-200 | https://wapp.capitol.tn.gov/
-200 | https://www.aclu.org/
-200 | https://www.antenna.live/insights/antennas-2024-top-subscription-insights-net-churn
-200 | https://www.businessthink.unsw.edu.au/articles/ai-return-on-investment-measurement-productivity-business-value
-403 | https://www.cbo.gov/publication/59711
-200 | https://www.chds.us/
-200 | https://www.consumerfinance.gov/data-research/research-reports/medical-debt-burden-in-the-united-states/
-200 | https://www.crowdstrike.com/
-200 | https://www.empower.com/investment-insights/global-debt-problem
-200 | https://www.experian.com/
-200 | https://www.fao.org/publications/sofa/
-200 | https://www.federalreserve.gov/
-200 | https://www.federalreserve.gov/econres/notes/feds-notes/default.htm
-200 | https://www.federalreserve.gov/publications/files/2023-report-economic-well-being-us-households-202405.pdf
-200 | https://www.goldmansachs.com/insights/pages/gs-research/gen-ai-hype-or-productivity-shift/report.pdf
-200 | https://www.hsaj.org/
-200 | https://www.ilo.org/sites/default/files/2024-11/GWR-2024_Layout_E_RGB_Web.pdf
-403 | https://www.imf.org/-/media/files/publications/fiscal-monitor/2024/04/17/fiscal-monitor-april-2024
-403 | https://www.imf.org/en/Publications/CR/Issues/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717
-403 | https://www.imf.org/en/Publications/FM/Issues/2024/04/17/fiscal-monitor-april-2024
-403 | https://www.imf.org/en/news/articles/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717
-403 | https://www.imf.org/en/publications/fm/issues/2024/04/17/fiscal-monitor-april-2024
-403 | https://www.imf.org/en/publications/fm/issues/2024/10/16/fiscal-monitor-october-2024
-200 | https://www.insurancejournal.com/news/national/2023/08/17/736024.htm
-200 | https://www.investmentbank.barclays.com/
-200 | https://www.isric.org/
-200 | https://www.kff.org/health-costs/issue-brief/the-burden-of-medical-debt-in-the-united-states/
-200 | https://www.kff.org/report-section/kff-health-care-debt-survey-main-findings/
-200 | https://www.latimes.com/
-200 | https://www.marketsandmarkets.com/Market-Reports/automotive-data-monetization-market-100.html
-HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=10) | https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
-HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=10) | https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/where-ai-will-create-value-and-where-it-wont
-HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=10) | https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-wellness-report
-200 | https://www.multco.us/
-200 | https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2024/natural-disaster-figures-2023.html
-200 | https://www.ncei.noaa.gov/access/billions/
-200 | https://www.newsguardtech.com/special-reports/ai-tracking-center/
-200 | https://www.newyorkfed.org/microeconomics/hhdc
-200 | https://www.newyorkfed.org/microeconomics/topics/student-debt
-403 | https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html
-200 | https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/real-wages-continue-to-recover_3a8a464b/8f8ec0e4-en.pdf
-403 | https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html
-403 | https://www.oecd.org/en/publications/global-debt-report-2024_e9d80efd-en/full-report/sovereign-borrowing-outlook_4470147b.html
-403 | https://www.oecd.org/en/publications/oecd-employment-outlook-2023_194a947b-en/full-report/component-5.html
-403 | https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html
-403 | https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html
-403 | https://www.oecd.org/en/publications/real-wages-continue-to-recover_8f8ec0e4-en.html
-200 | https://www.oliverwyman.com/
-403 | https://www.pimco.com/en-us/insights/blog/reassessing-us-fiscal-path
-200 | https://www.prodigaltech.com/blog/rise-of-auto-loan-delinquencies-and-repossessions-in-2025
-401 | https://www.reuters.com/business/finance/crowdstrike-outage-cost-fortune-500-companies-billions-2024-07-24/
-400 | https://www.sciencedirect.com/journal/journal-of-criminal-justice
-400 | https://www.sciencedirect.com/journal/journal-of-financial-economics
-400 | https://www.sciencedirect.com/journal/the-lancet-planetary-health
-400 | https://www.sciencedirect.com/science/article/pii/S135917890700025X
-400 | https://www.sciencedirect.com/science/article/pii/S246826672030141X
-200 | https://www.secretservice.gov/
-200 | https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last
-200 | https://www.statista.com/
-HTTPSConnectionPool(host='www.stlouisfed.org', port=443): Read timed out. (read timeout=10) | https://www.stlouisfed.org/on-the-economy/2023/may/broad-continuing-rise-delinquent-us-credit-card-debt-revisited
-200 | https://www.tampabay.com/
-200 | https://www.theguardian.com/
-200 | https://www.theviolenceproject.org/key-findings/
-403 | https://www.transunion.com/blog/q4-2024-credit-industry-insights-report
-403 | https://www.unep.org/resources/report/state-finance-nature-2022
-200 | https://www.usaid.gov/
-403 | https://www.visualcapitalist.com/mapped-government-debt-to-gdp-by-country-in-2023/
-403 | https://www.weforum.org/stories/2023/08/global-insurance-industry-gap/
-200 | https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-304-global-economic-loss-as-climate-danger-looms/
-200 | https://www.who.int/publications/i/item/9789240003927
-200 | https://www.worldbank.org/en/publication/the-changing-wealth-of-nations
-401 | https://www.wsj.com/articles/home-insurers-are-canceling-policies-in-high-risk-states-44e235e2
-200 | https://zerocarbon-analytics.org/insights/briefings/finding-economic-value-in-nature-beyond-carbon/
+--- 01_enshitification.md ---
+  [!] Potential future-dated hallucination: 2035
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2033
+  [!] Potential future-dated hallucination: 2035
+--- 02_K-curve.md ---
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2040
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2036
+--- 03_wealth_erosion.md ---
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2050
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2040
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2029
+  [!] Potential future-dated hallucination: 2027
+  [!] Potential future-dated hallucination: 2028
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2040
+  [!] Potential future-dated hallucination: 2030
+--- 04_fuses.md ---
+  [!] Potential future-dated hallucination: 2030
+--- 05_no_gain.md ---
+  [!] Potential future-dated hallucination: 2050
+  [!] Potential future-dated hallucination: 2050
+--- 06_liability.md ---
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2040
+--- 07_attack_of_the_repo_men.md ---
+  [!] Potential future-dated hallucination: 2027
+  [!] Potential future-dated hallucination: 2050
+  [!] Potential future-dated hallucination: 2028
+  [!] Potential future-dated hallucination: 2033
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2027
+  [!] Potential future-dated hallucination: 2028
+  [!] Potential future-dated hallucination: 2027
+--- Readme.md ---
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2027
+  [!] Potential future-dated hallucination: 2036
+  [!] Potential future-dated hallucination: 2027
+  [!] Potential future-dated hallucination: 2027
+  [!] Potential future-dated hallucination: 2028
+  [!] Potential future-dated hallucination: 2028
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2028
+  [!] Potential future-dated hallucination: 2030
+  [!] Potential future-dated hallucination: 2027
+
+Starting link check (this may take a minute)...
+--- 01_enshitification.md Links ---
+  [?] Error checking link https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-wellness-report: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=5)
+  [?] Broken link: https://onlinelibrary.wiley.com/journal/14756765 (Status: 403)
+  [?] Broken link: https://www.transunion.com/blog/q4-2024-credit-industry-insights-report (Status: 403)
+  [?] Broken link: https://www.oliverwyman.com/our-expertise/insights/2023/sep/the-future-of-in-car-entertainment.html (Status: 404)
+  [?] Broken link: https://www.reuters.com/business/finance/crowdstrike-outage-cost-fortune-500-companies-billions-2024-07-24/ (Status: 401)
+  [?] Broken link: https://www.crowdstrike.com/wp-content/uploads/2024/08/External-Root-Cause-Analysis-July-19-2024.pdf (Status: 404)
+  [?] Broken link: https://www.crowdstrike.com/wp-content/uploads/2024/08/External-Root-Cause-Analysis-July-19-2024.pdf (Status: 404)
+--- 02_K-curve.md Links ---
+  [?] Broken link: https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/ (Status: 404)
+  [?] Broken link: https://www.imf.org/-/media/files/publications/fiscal-monitor/2024/04/17/fiscal-monitor-april-2024 (Status: 403)
+  [?] Broken link: https://www.imf.org/en/publications/fm/issues/2024/04/17/fiscal-monitor-april-2024 (Status: 403)
+  [?] Broken link: https://contemporaryfamilies.org/student-debt-impact-on-marriage-and-family-formation/ (Status: 404)
+  [?] Broken link: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/real-wages-continue-to-recover_8f8ec0e4-en.html (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/oecd-employment-outlook-2025_194a947b-en/full-report/component-5.html (Status: 403)
+  [?] Broken link: https://contemporaryfamilies.org/student-debt-impact-on-marriage-and-family-formation/ (Status: 404)
+--- 03_wealth_erosion.md Links ---
+  [?] Broken link: https://www.unccd.int/sites/default/files/2022-04/GLO2_SDM_LowRes.pdf (Status: 404)
+  [?] Broken link: https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html (Status: 403)
+  [?] Broken link: https://doi.org/10.1016/S2468-2667%2820%2930141-X (Status: 404)
+  [?] Broken link: https://www.usaid.gov/sites/default/files/2023-05/USAID-Mental-Health-Fact-Sheet-May-2023.pdf (Status: 404)
+  [?] Broken link: https://originality.ai/blog/ai-generated-content-growth-study (Status: 404)
+  [?] Broken link: https://originality.ai/blog/ai-generated-content-growth-study (Status: 404)
+  [?] Broken link: https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/ (Status: 404)
+  [?] Broken link: https://originality.ai/blog/ai-generated-content-growth-study (Status: 404)
+  [?] Broken link: https://searchengineland.com/google-ai-overviews-study-442431 (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html (Status: 403)
+  [?] Broken link: https://www.usaid.gov/sites/default/files/2023-05/USAID-Mental-Health-Fact-Sheet-May-2023.pdf (Status: 404)
+  [?] Broken link: https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html (Status: 403)
+--- 04_fuses.md Links ---
+  [?] Broken link: https://www.sciencedirect.com/science/article/pii/S135917890700025X (Status: 403)
+  [?] Broken link: https://www.secretservice.gov/sites/default/files/reports/2024-01/NTAC_School_Aversion_Report_2024.pdf (Status: 404)
+  [?] Broken link: https://cepr.org/voxeu/columns/economic-losses-climate-change-are-probably-larger-you-think-new-ngfs-scenarios (Status: 403)
+  [?] Broken link: https://www.imf.org/en/news/articles/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717 (Status: 403)
+  [?] Broken link: https://www.hsaj.org/articles/16539 (Status: 404)
+  [?] Broken link: https://www.sciencedirect.com/journal/journal-of-criminal-justice (Status: 403)
+  [?] Broken link: https://corpgov.law.harvard.edu/2023/04/11/poison-pills-and-shareholder-value/ (Status: 403)
+  [?] Broken link: https://www.sciencedirect.com/journal/journal-of-financial-economics (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/from-decline-to-revival_67bb8fac-en.html (Status: 403)
+--- 05_no_gain.md Links ---
+  [?] Broken link: https://cheq.ai/blog/the-economic-cost-of-bad-actors-on-the-internet-fake-news-report/ (Status: 404)
+  [?] Broken link: https://www.unep.org/resources/report/state-finance-nature-2022 (Status: 403)
+  [?] Broken link: https://doi.org/10.1016/S2542-5196%2823%2900000-0 (Status: 404)
+--- 06_liability.md Links ---
+  [?] Broken link: https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-lawsuit-against-fossil-fuel-companies-big-oil (Status: 404)
+  [?] Error checking link https://norden.diva-portal.org/smash/get/diva2:1295959/FULLTEXT01.pdf: HTTPSConnectionPool(host='norden.diva-portal.org', port=443): Max retries exceeded with url: /smash/get/diva2:1295959/FULLTEXT01.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='norden.diva-portal.org', port=443) at 0x7fa32d4822a0>, 'Connection to norden.diva-portal.org timed out. (connect timeout=5)'))
+  [?] Broken link: https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html (Status: 403)
+  [?] Broken link: https://www.theguardian.com/technology/2023/apr/06/australian-mayor-brian-hood-prepares-worlds-first-defamation-lawsuit-over-chatgpt-results (Status: 404)
+  [?] Broken link: https://www.aclu.org/news/privacy-technology/how-hirevues-ai-hiring-tools-could-fuel-bias-and-discrimination (Status: 404)
+--- 07_attack_of_the_repo_men.md Links ---
+  [?] Broken link: https://www.tampabay.com/news/florida-politics/2024/03/26/desantis-signs-bill-overhaul-citizens-insurance/ (Status: 404)
+  [?] Broken link: https://www.wsj.com/articles/home-insurers-are-canceling-policies-in-high-risk-states-44e235e2 (Status: 401)
+  [?] Broken link: https://www.latimes.com/business/story/2024-04-18/californias-homeowners-insurance-crisis-is-getting-worse (Status: 404)
+  [?] Broken link: https://www.pimco.com/en-us/insights/blog/reassessing-us-fiscal-path (Status: 403)
+  [?] Broken link: https://www.cbo.gov/publication/59711 (Status: 403)
+  [?] Broken link: https://originality.ai/blog/ai-generated-content-growth-study (Status: 404)
+--- Readme.md Links ---
+  [?] Error checking link https://www.stlouisfed.org/on-the-economy/2023/may/broad-continuing-rise-delinquent-us-credit-card-debt-revisited: HTTPSConnectionPool(host='www.stlouisfed.org', port=443): Read timed out. (read timeout=5)
+  [?] Broken link: https://www.imf.org/en/publications/fm/issues/2024/04/17/fiscal-monitor-april-2024 (Status: 403)
+  [?] Broken link: https://www.imf.org/en/Publications/CR/Issues/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717 (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/global-debt-report-2024_e9d80efd-en/full-report/sovereign-borrowing-outlook_4470147b.html (Status: 403)
+  [?] Broken link: https://www.visualcapitalist.com/mapped-government-debt-to-gdp-by-country-in-2023/ (Status: 403)
+  [?] Broken link: https://www.imf.org/en/Publications/FM/Issues/2024/04/17/fiscal-monitor-april-2024 (Status: 403)
+  [?] Error checking link https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/where-ai-will-create-value-and-where-it-wont: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=5)
+  [?] Error checking link https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=5)
+  [?] Broken link: https://www.weforum.org/stories/2023/08/global-insurance-industry-gap/ (Status: 403)
+  [?] Broken link: https://iiasa.ac.at/news/apr-2024/what-are-economic-costs-of-climate-inaction (Status: 403)
+  [?] Broken link: https://www.oecd.org/en/publications/oecd-employment-outlook-2023_194a947b-en/full-report/component-5.html (Status: 403)
+  [?] Broken link: https://www.imf.org/en/publications/fm/issues/2024/10/16/fiscal-monitor-october-2024 (Status: 403)
+  [?] Broken link: https://www.weforum.org/stories/2023/08/global-insurance-industry-gap/ (Status: 403)
