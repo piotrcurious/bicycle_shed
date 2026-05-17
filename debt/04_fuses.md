@@ -30,7 +30,7 @@ ScienceDirect's international analysis of school rampages defines the canonical 
 
 This is the analytical key. The school is not chosen because it contains many soft targets — a shopping mall, a stadium, a public street would offer those. The school is chosen because it is the most legible symbol of the institutional system that processed the shooter and produced their outcome. The school is where the credential was promised and not delivered. Where the social hierarchy was enforced. Where the debt was originally incurred — in status, in hope, in the promise of meritocratic mobility that the broader economic system subsequently failed to honor.
 
-The National Threat Assessment Center's findings confirm: attackers were primarily motivated by grievance with classmates, school staff, or institutional actors personally known to them — not strangers. **88% had at least one social media account and 76% had pre-posted content related to threats** — meaning the act was preceded by a sustained period of failed communication, ignored distress signals, and unaddressed grievance. [National Threat Assessment Center](https://www.secretservice.gov/)
+The National Threat Assessment Center's findings confirm: attackers were primarily motivated by grievance with classmates, school staff, or institutional actors personally known to them — not strangers. **88% had at least one social media account and 76% had pre-posted content related to threats** — meaning the act was preceded by a sustained period of failed communication, ignored distress signals, and unaddressed grievance. [National Threat Assessment Center](https://www.secretservice.gov/sites/default/files/reports/2024-01/NTAC_School_Aversion_Report_2024.pdf)
 
 **Inference, Iteration 1:** The pre-attack communication pattern is the dead hand warning signal. The shooter first attempts constructive agency — communicates distress, seeks help, signals grievance through legitimate channels. The attack occurs *after* those channels fail. The violence is not the first action; it is the last action after all others were exhausted or ignored. This is structurally identical to the Soviet Perimeter system: only activated when normal command channels are destroyed.
 
@@ -42,7 +42,7 @@ The NIJ database spanning 50 years of US mass shootings finds that **20% of all 
 
  A 6.4× increase in lethality per year. [The Violence Project](https://www.theviolenceproject.org/key-findings/)
 
-School shootings specifically increased **90.4% from 2000 to 2021** — nearly doubling in two decades, with the steepest acceleration post-2012. [CHDS School Shooting Safety Compendium](https://www.chds.us/)
+School shootings specifically increased **90.4% from 2000 to 2021** — nearly doubling in two decades, with the steepest acceleration post-2012. [CHDS School Shooting Safety Compendium](https://www.chds.us/ssdb/charts-graphs/)
 
 The frequency increase also has a feedback mechanism: inverse correlation between the interval between consecutive shootings and online media coverage intensity. Each publicized shooting shortens the average gap to the next one — a contagion effect operating through the same degraded information ecosystem analyzed previously. [CEPR](https://cepr.org/voxeu/columns/economic-losses-climate-change-are-probably-larger-you-think-new-ngfs-scenarios)
 
@@ -52,7 +52,7 @@ This is not sociological speculation. The causal relationship has been tested wi
 
 A panel negative binomial regression study finds a statistically significant relationship: **a one standard deviation increase in income inequality is associated with 0.43–0.57 more mass shootings per county** (IRR 1.43–1.57, p<0.001). Counties experiencing growing income inequality experienced mass shootings at a rate of **30 per 1,000 counties** — versus counties with declining inequality experiencing *reductions* at 6 per 1,000 counties. [International Monetary Fund](https://www.imf.org/en/news/articles/2024/07/11/United-States-2024-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-551717)
 
-A Homeland Security Affairs review confirms the mechanism: "increase in income inequality and social mobility were linked to a **15% increase in firearm-related mass shootings**. A decrease in these social determinants lowered the risk of gun-related homicides by 32%." Poverty-stricken communities with low social ties showed a **27% increase in gun homicides**. [Homeland Security Affairs](https://www.hsaj.org/)
+A Homeland Security Affairs review confirms the mechanism: "increase in income inequality and social mobility were linked to a **15% increase in firearm-related mass shootings**. A decrease in these social determinants lowered the risk of gun-related homicides by 32%." Poverty-stricken communities with low social ties showed a **27% increase in gun homicides**. [Homeland Security Affairs](https://www.hsaj.org/articles/16539)
 
 **The mechanism is precisely Merton's relative deprivation:** communities where the gap between promised outcomes and delivered outcomes is largest generate the most grievance-fueled violence. The promise is made by the institution (school, credential system, meritocracy). The gap is widened by the debt mechanisms analyzed in previous modules. The violence is the dead hand response to the recognition that the gap cannot be closed through legitimate action.
 

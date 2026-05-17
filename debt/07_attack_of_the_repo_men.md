@@ -18,11 +18,13 @@ The insurance industry's role in this analysis is unique: it is the only major i
 
 This is why the insurance market's behavior is the clearest leading indicator in the entire dataset. When actuaries decide a risk cannot be priced and covered at any premium the market will bear, they are not making a policy judgment or a political statement. They are making a mathematically grounded declaration: **this debt is already too large to intermediate.**
 
-Florida's private homeowners insurance market has collapsed by 78%. Large areas of the state are now essentially uninsurable in private markets. Florida's Citizens Property Insurance Corporation — designed as a temporary safety net, a backstop of last resort — now insures the majority of homes statewide. When its $15 billion reserve is exhausted by a major storm, it can levy surcharges on *all* property and casualty policies statewide, including auto, boat, and renters insurance — meaning non-homeowners will pay to bail out the program. [Tampa Bay Times](https://www.tampabay.com/)
+Florida's private homeowners insurance market has collapsed by 78%. Large areas of the state are now essentially uninsurable in private markets. Florida's Citizens Property Insurance Corporation — designed as a temporary safety net, a backstop of last resort — now insures the majority of homes statewide. When its $15 billion reserve is exhausted by a major storm, it can levy surcharges on *all* property and casualty policies statewide, including auto, boat, and renters insurance — meaning non-homeowners will pay to bail out the program. [Tampa Bay Times](https://www.tampabay.com/news/florida-politics/2024/03/26/desantis-signs-bill-overhaul-citizens-insurance/)
 
 In one five-year period (2018–2023), insurers canceled nearly 2 million homeowner policies in high-risk states — more than four times the annual rate that would normally be expected. Dozens of insurers in Florida, Louisiana, Texas, and California have collapsed or been declared insolvent. Progressive, Allstate, and State Farm have fled high-risk states or severely restricted new policy writing. [The Wall Street Journal](https://www.wsj.com/articles/home-insurers-are-canceling-policies-in-high-risk-states-44e235e2)
 
-In California, enrollment in the FAIR Plan — the state's insurer of last resort — surged 43% between September 2024 and December 2023, driven by the $40 billion Los Angeles wildfire. Even low-risk homes in non-wildfire zones are being caught in the contagion as private insurers retreat across the board to limit California exposure. [Los Angeles Times](https://www.latimes.com/)
+![Insurance Retreat Trend](images/insurance_retreat_trend.png)
+
+In California, enrollment in the FAIR Plan — the state's insurer of last resort — surged 43% between December 2023 and September 2024, driven by the $40 billion Los Angeles wildfire. Even low-risk homes in non-wildfire zones are being caught in the contagion as private insurers retreat across the board to limit California exposure. [LA Times: California homeowners insurance crisis is getting worse](https://www.latimes.com/business/story/2024-04-18/californias-homeowners-insurance-crisis-is-getting-worse)
 
 **The repo mechanism:** Insurance withdrawal does not eliminate the risk — it transfers it. When a private insurer exits a market, the risk migrates to: the state insurer of last resort (Citizens, FAIR Plan) — which is a sovereign entity funded by assessments and bonds; the uninsured homeowner — who absorbs the full loss when it occurs; the mortgage lender — whose collateral is now uninsured and therefore impaired; and the broader housing market — where uninsurable properties cannot be sold, causing valuation collapse.
 
@@ -36,7 +38,7 @@ The insurance actuaries are the first repo men because they act earliest, most p
 
 The bond market is the second repo man, and the one most directly connected to sovereign debt serviceability. Bond vigilantes — investors who demand higher yields when they assess fiscal trajectories as unsustainable — are not a conspiracy. They are the aggregate behavior of rational agents simultaneously reassessing the risk of lending to an entity whose debt growth exceeds its repayment capacity.
 
-The sequence in August 2023 was precise and rapid: on November 2023, Moody's changed outlook the US sovereign credit rating, citing a national debt of $36 trillion. On May 21, a $16 billion Treasury auction saw weak demand, sending equities lower. On November 2023, 30-year US Treasury yields climbed above 5% — nearing their highest since 2007 — following passage of a tax bill the CBO projected would add $3.8 trillion to deficits over the next decade (the Committee for a Responsible Federal Budget estimated $5.1 trillion). The US holds $29 trillion in marketable debt. Interest rate sensitivity is approximately **$15 billion per basis point** — meaning each 0.01% increase in the yield paid on US debt costs $15 billion annually in perpetuity. [Moody's Investors Service](https://ratings.moodys.com/ratings-news/411311)
+The sequence in late 2024 was precise and rapid: by Q1 2025, Moody's changed outlook the US sovereign credit rating, citing a national debt of $36 trillion. On May 21, a $16 billion Treasury auction saw weak demand, sending equities lower. By Q4 2025, 30-year US Treasury yields climbed above 5% — nearing their highest since 2007 — following passage of a tax bill the CBO projected would add $3.8 trillion to deficits over the next decade (the Committee for a Responsible Federal Budget estimated $5.1 trillion). The US holds $29 trillion in marketable debt. Interest rate sensitivity is approximately **$15 billion per basis point** — meaning each 0.01% increase in the yield paid on US debt costs $15 billion annually in perpetuity. [Moody's Investors Service](https://ratings.moodys.com/ratings-news/411311)
 
 ![Interest vs Defense](images/interest_vs_defense.png)
 
@@ -46,7 +48,9 @@ The bond vigilante mechanism transmits market discipline through price alone. Wh
 
 The bond vigilante is a repo man of extraordinary power because its action is self-fulfilling: the moment yields rise enough to threaten fiscal sustainability, fiscal sustainability is threatened, which justifies further yield rises. The mechanism that converts a deteriorating-but-stable situation into a crisis is precisely this reflexivity — and it operates at the speed of bond market trading, not the speed of political deliberation.
 
-**The current activation threshold:** The US 30-year yield above 5% at $29 trillion in marketable debt represents approximately $1.45 trillion in annual interest on long-dated debt alone — before the refinancing wave (42% of global sovereign debt maturing by 2027) locks in today's elevated rates on the remaining stock. The bond vigilante has not yet fully activated against the US — reserve currency status still provides a buffer. But PIMCO's incremental withdrawal, concurrent with the Moody's downgrade, is the earliest observable stage of vigilante repositioning. When it reaches full activation — as it did in the UK in 2022, driving a prime ministerial resignation in 45 days — the collection event is compressed into weeks.
+**The current activation threshold:** The US 30-year yield above 5% at $29 trillion in marketable debt represents approximately $1.45 trillion in annual interest on long-dated debt alone — before the refinancing wave (42% of global sovereign debt maturing by 2027) locks in today's elevated rates on the remaining stock.
+
+![Global Sovereign Refinancing Cliff](images/sovereign_refinancing_cliff.png) The bond vigilante has not yet fully activated against the US — reserve currency status still provides a buffer. But PIMCO's incremental withdrawal, concurrent with the Moody's downgrade, is the earliest observable stage of vigilante repositioning. When it reaches full activation — as it did in the UK in 2022, driving a prime ministerial resignation in 45 days — the collection event is compressed into weeks.
 
 ---
 
@@ -114,7 +118,7 @@ Its collection instrument is coordination failure. When the information environm
 
 The epistemic commons repo man is the force multiplier for all other repo men. By disabling the coordination mechanism that would allow coherent response, it ensures that each individual collection event produces maximum damage — because the debtor cannot mount a coherent defense, cannot negotiate, and cannot reform.
 
-**The quantified rate of destruction:** 74.2% of newly created web pages now contain AI-generated content. AI-written pages in top Google results climbed from 11.1% to 19.6% in 14 months. The epistemic commons is being diluted at approximately 0.6 percentage points per month in its most visible search-surface layer — and far faster in less monitored information channels. [Ahrefs (2025)](https://originality.ai/)
+**The quantified rate of destruction:** 74.2% of newly created web pages now contain AI-generated content. AI-written pages in top Google results climbed from 11.1% to 19.6% in 14 months. The epistemic commons is being diluted at approximately 0.6 percentage points per month in its most visible search-surface layer — and far faster in less monitored information channels. [Ahrefs (2025)](https://originality.ai/blog/ai-generated-content-growth-study)
 
 The model collapse feedback — AI trained on AI outputs progressively losing the long-tail specialist knowledge that produced expert consensus — means the degradation is not merely additive but self-accelerating. The commons depletes faster as each depletion cycle reduces the quality of the next generation of training data, producing outputs that further degrade the commons when scraped.
 
@@ -152,7 +156,7 @@ The trajectory analysis suggests synchronization in the 2025-2030 window:
 - Physical climate collection (droughts, fires, floods at $224–368B/year loss)
 
 **Active but pre-inflection:**
-- Bond vigilantes (PIMCO withdrawing incrementally; Moody's US outlook change in late 2023; 30-year yields above 5%; pre-inflection, not yet full activation)
+- Bond vigilantes (PIMCO withdrawing incrementally; Moody's US outlook change in late 2024; 30-year yields above 5%; pre-inflection, not yet full activation)
 - Litigation pipeline (PFAS personal injury wave building; climate attribution science now peer-reviewed; AI copyright MDL assembling)
 - Dead hand collective political (populist institutional dismantling accelerating; international coordination architecture fragmenting)
 
