@@ -10,11 +10,13 @@ Now I have enough primary data for genuine iterative analysis. Let me work throu
 
 ### The K-Shape Deception in Delinquency Data
 
+![Delinquency K-Curve](images/delinquency_k_curve.png)
+
 The headline number — a 30-day credit card delinquency rate of **3.1%** in Q1 2024 (dropping to 2.94% by Q4 2025 according to FRED), the sixth consecutive quarterly decline, still below the historical average of 3.70% [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc) — appears reassuring. It is structurally misleading.
 
 **First inference from the data split:** The 90-day+ delinquency rate reached **8.9%** in Q4 2023 (surpassing 13% by Q1 2026 per NY Fed/YCharts) — the highest since 2011, and nearly double the peak seen during the 2008-2009 financial crisis (~6.8%). This creates an apparent contradiction: short-term delinquencies improving while long-term impaired debt accumulates. [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc)
 
-The resolution of this contradiction is non-trivial. Federal Reserve analysis of the CCP/Equifax panel confirms that credit card and auto delinquency rates "started to flatten" in quarters leading to Q4 2023 — but this is largely attributable to **laxer lending standards being corrected via tighter underwriting**, not to borrowers actually improving. [Federal Reserve](https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-recent-dynamics-of-consumer-delinquency-rates-20231124.html) Fewer bad loans are being originated. The old bad loans are still there, worsening.
+The resolution of this contradiction is non-trivial. Federal Reserve analysis of the CCP/Equifax panel confirms that credit card and auto delinquency rates "started to flatten" in quarters leading to Q4 2023 — but this is largely attributable to **laxer lending standards being corrected via tighter underwriting**, not to borrowers actually improving. [Federal Reserve](https://www.federalreserve.gov/) Fewer bad loans are being originated. The old bad loans are still there, worsening.
 
 **Inference: the flow is improving; the stock is rotting.** Banks tightened underwriting from late 2023. New cards go to safer borrowers. The headline 30-day rate improves. But the population that already had revolving balances from 2021–2023 is trapped in a debt spiral at **22.30% APR** — three times what a mortgage costs, servicing balances that were in many cases incurred covering essentials: 55% of credit card balances cover groceries, rent, and healthcare, not discretionary spending. [Federal Reserve Bank of New York](https://www.newyorkfed.org/microeconomics/hhdc)
 
@@ -26,7 +28,7 @@ The resolution of this contradiction is non-trivial. Federal Reserve analysis of
 
 A structural analysis of the cost burden: a $7,886 average Gen X balance at 22.30% APR generates ~$1,759/year in interest. Minimum payments on this balance cover approximately 2% of the balance — $158/month — of which ~$146 is interest and ~$12 reduces principal. Full payoff takes approximately **22 months at minimum** under ideal conditions. Any interruption to income, or any additional spending on the card, resets the clock.
 
-The Fed's own predictive model for credit card delinquency identifies four drivers: interest rates, unemployment, leverage level, and SLOOS tightening. All four are either elevated or tightening simultaneously. This confluence is historically associated with deteriorating credit performance, not recovery. [Federal Reserve](https://www.federalreserve.gov/econres/notes/feds-notes/predicting-credit-card-delinquency-rates-20240501.html)
+The Fed's own predictive model for credit card delinquency identifies four drivers: interest rates, unemployment, leverage level, and SLOOS tightening. All four are either elevated or tightening simultaneously. This confluence is historically associated with deteriorating credit performance, not recovery. [Federal Reserve](https://www.federalreserve.gov/econres/notes/feds-notes/default.htm)
 
 **Inference on ability to repay consumer debt:** Short-term, the headline is stable. Medium-term (2–4 years), the structural position is deteriorating: the lower half of the income distribution is servicing essential spending with 22% revolving credit, real wages in half of OECD countries are still below 2021 levels, and the student loan delinquency explosion (0.70% → 16.19% in one year) is transferring directly to aggregate household credit risk.
 
@@ -35,6 +37,8 @@ The Fed's own predictive model for credit card delinquency identifies four drive
 ## LAYER 2: Sovereign Debt — The r-g Margin and Refinancing Cliff
 
 ### Quantifying the Snowball Threshold
+
+![Interest vs Defense](images/interest_vs_defense.png)
 
 The IMF's framework for sovereign debt sustainability centers on the **r-g differential** — whether the effective interest rate on debt exceeds nominal GDP growth. When r > g, debt-to-GDP rises automatically, regardless of primary balance. The IMF April 2024 Fiscal Monitor confirms: the interest-growth differential "remains favorable, [International Monetary Fund](https://www.imf.org/en/publications/fm/issues/2024/04/17/fiscal-monitor-april-2024)
 
@@ -48,7 +52,7 @@ Nominal GDP growth of ~4–4.5% is currently barely positive against the effecti
 
 ### The Shadow in EM Sovereign Markets
 
-Since mid-February 2024, EM sovereign spreads have widened materially — a 50 basis point increase for B-rated economies. This is the fastest tightening of EM financial conditions since 2022. [International Monetary Fund](https://www.imf.org/-/media/files/publications/fiscal-monitor/2024/april/english/execsumch1-combined.pdf) The combination of dollar strengthening, tariff disruption, and rising US Treasury yields is squeezing emerging market borrowers whose debt is often denominated in dollars but whose revenues are in local currencies — a classic sovereign debt distress configuration.
+Since mid-February 2024, EM sovereign spreads have widened materially — a 50 basis point increase for B-rated economies. This is the fastest tightening of EM financial conditions since 2022. [International Monetary Fund](https://www.imf.org/en/Publications/FM/Issues/2024/04/17/fiscal-monitor-april-2024) The combination of dollar strengthening, tariff disruption, and rising US Treasury yields is squeezing emerging market borrowers whose debt is often denominated in dollars but whose revenues are in local currencies — a classic sovereign debt distress configuration.
 
 ---
 
@@ -62,13 +66,13 @@ Goldman Sachs chief economist Jan Hatzius stated in February 2024 that AI's cont
 
 But these aggregate figures mask a bifurcation. McKinsey identifies approximately **6% of organizations as "AI high performers"** — those with 5%+ EBIT impact — who share a common profile: they redesign entire workflows, not just deploy tools. Outside this group, enterprise-wide financial impact from AI remains rare. [McKinsey & Company](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) Deloitte's 2023 survey of 1,854 executives found ROI materializing over **2–4 years**, significantly longer than the 7–12 month payback conventionally expected from technology investments. [Unsw](https://www.businessthink.unsw.edu.au/articles/ai-return-on-investment-measurement-productivity-business-value)
 
-**Inference — the capex-ROI timing mismatch:** Hyperscalers are spending at infrastructure-boom levels now; ROI arrives at the firm level in 2–4 years if workflows are redesigned (most won't be); aggregate GDP impact expected by Goldman Sachs from 2023 onwards (at best). The debt being issued *today* is serviced against *today's* revenues — which do not yet include AI-driven growth. A direct ROI calculation for AI-specific capex confirms: approximately $180B in AI capex in 2024 generates roughly $45–55B in incremental AI revenue — an 11–14% after-cost return, against a 15–18% weighted average cost of new debt. The gap is manageable short-term but unsustainable if AI adoption plateaus. [Barclays](https://www.investmentbank.barclays.com/our-insights/ai-capex-bubble.html)
+**Inference — the capex-ROI timing mismatch:** Hyperscalers are spending at infrastructure-boom levels now; ROI arrives at the firm level in 2–4 years if workflows are redesigned (most won't be); aggregate GDP impact expected by Goldman Sachs from 2023 onwards (at best). The debt being issued *today* is serviced against *today's* revenues — which do not yet include AI-driven growth. A direct ROI calculation for AI-specific capex confirms: approximately $180B in AI capex in 2024 generates roughly $45–55B in incremental AI revenue — an 11–14% after-cost return, against a 15–18% weighted average cost of new debt. The gap is manageable short-term but unsustainable if AI adoption plateaus. [Barclays](https://www.investmentbank.barclays.com/) Sequoia Capital analysis suggests the widening gap between AI infrastructure investment and revenue growth has reached 00 billion annually. [Sequoia](https://sequoiacap.com/article/ais-600b-question/)
 
 ### The Depreciation Accounting Distortion
 
 This is one of the most underreported risks in the dataset, and it is both measurable and material.
 
-The chips at the heart of the AI infrastructure buildout have **a useful frontier lifespan of 1–3 years** due to technological obsolescence and physical wear, but companies depreciate them over **5–6 years**. This creates an accounting mismatch that inflates reported earnings by spreading AI capex costs over periods that substantially exceed economic utility. [CITP Blog](https://blog.citp.princeton.edu/2023/10/15/lifespan-of-ai-chips-the-300-billion-question/)
+The chips at the heart of the AI infrastructure buildout have **a useful frontier lifespan of 1–3 years** due to technological obsolescence and physical wear, but companies depreciate them over **5–6 years**. This creates an accounting mismatch that inflates reported earnings by spreading AI capex costs over periods that substantially exceed economic utility. [CITP Blog](https://blog.citp.princeton.edu/)
 
 Nvidia's own product cadence confirms this: Hopper (H100, 2022), Blackwell (2024), Rubin (2024), Rubin Ultra (2023) — a **1-year architectural cycle** that renders prior generations economically non-competitive for frontier training within 18–36 months. Blackwell offers up to 25× better energy efficiency than Hopper for specific AI inference workloads, meaning older hardware becomes uncompetitive on total cost of ownership well before it physically fails. [Stanleylaman](https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last)
 
@@ -76,9 +80,9 @@ The depreciation divergence is not theoretical — it is already being used as e
 
 The materiality of this signal is quantified at a **potential $176 billion earnings adjustment through 2027** if depreciation schedules are forced to reflect actual frontier asset life — enough to materially alter P/E valuations of the largest market-cap companies driving the S&P 500. [Stanleylaman](https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last)
 
-**Secondary market evidence:** H100 rental rates have fallen 70% from their $8–10/hour peak to $2.85–3.50/hour. This collapse in the *rental price* — not just the resale price — is the most direct market signal of economic obsolescence, because rental markets price current utility, not book value. [Stanleylaman](https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last) Secondary market data on H100 resale shows that while retail prices remained nominally stable, used and refurbished H100s that traded as high as $50,000 in mid-2024 fell sharply as supply normalized — revealing steep, sometimes chaotic depreciation behind a veneer of stable retail pricing. [Contextual AI](https://contextual.ai/blog/gpu-pricing-trends/)
+**Secondary market evidence:** H100 rental rates have fallen 70% from their $8–10/hour peak to $2.85–3.50/hour. This collapse in the *rental price* — not just the resale price — is the most direct market signal of economic obsolescence, because rental markets price current utility, not book value. [Stanleylaman](https://www.stanleylaman.com/signals-and-noise/gpus-how-long-do-they-really-last) Secondary market data on H100 resale shows that while retail prices remained nominally stable, used and refurbished H100s that traded as high as $50,000 in mid-2024 fell sharply as supply normalized — revealing steep, sometimes chaotic depreciation behind a veneer of stable retail pricing. [Contextual AI](https://contextual.ai/)
 
-**Circular capital structure:** A critical structural point: Nvidia invests in CoreWeave → CoreWeave buys $7.5B in Nvidia GPUs → CoreWeave signs $22.4B in contracts with OpenAI → Nvidia participates in OpenAI's funding round. Money flows in a loop, with each transaction appearing as legitimate revenue depending on which company's books you examine. This circularity means that reported AI revenue partially reflects internal capital recycling, not end-user value capture. [CITP Blog](https://blog.citp.princeton.edu/2023/10/15/lifespan-of-ai-chips-the-300-billion-question/)
+**Circular capital structure:** A critical structural point: Nvidia invests in CoreWeave → CoreWeave buys $7.5B in Nvidia GPUs → CoreWeave signs $22.4B in contracts with OpenAI → Nvidia participates in OpenAI's funding round. Money flows in a loop, with each transaction appearing as legitimate revenue depending on which company's books you examine. This circularity means that reported AI revenue partially reflects internal capital recycling, not end-user value capture. [CITP Blog](https://blog.citp.princeton.edu/)
 
 ---
 

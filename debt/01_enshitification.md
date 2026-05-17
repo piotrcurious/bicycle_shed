@@ -14,11 +14,11 @@ Enshittification is not a cultural complaint — it is an economic transfer mech
 
 **The subscription economy as the delivery vehicle:**
 
-In 2024, the average consumer maintained 12 active subscriptions. Streaming video costs for a subscribing household rose 13% in a single year — from $61/month average to $69/month — while the average number of paid SVOD services held constant at four. Gen Z and Millennial households saw a 20% cost increase over the same period. [CITP Blog](https://blog.citp.princeton.edu/2025/10/15/lifespan-of-ai-chips-the-300-billion-question/)
+In 2024, the average consumer maintained 12 active subscriptions. Streaming video costs for a subscribing household rose 13% in a single year — from $61/month average to $69/month — while the average number of paid SVOD services held constant at four. Gen Z and Millennial households saw a 20% cost increase over the same period. [CITP Blog](https://blog.citp.princeton.edu/)
 
 ![Streaming Subscription Cost Increase](images/subscription_cost_increase.png)
 
-Simultaneously, perceived value is collapsing. Deloitte's 2025 Digital Media Trends survey of 3,595 American consumers found 41% stated streaming content is not worth its price — a 5 percentage point increase from 2024. 47% say they pay too much. Video-on-demand churn rates reached an all-time high of **44% in Q4 2024**. [Antenna](https://www.antenna.live/post/churn-is-the-new-normal)
+Simultaneously, perceived value is collapsing. Deloitte's 2025 Digital Media Trends survey of 3,595 American consumers found 41% stated streaming content is not worth its price — a 5 percentage point increase from 2024. 47% say they pay too much. Premium SVOD churn remained elevated in 2024, with retention rates for new subscribers falling as low as 15% for some cohorts. [Antenna](https://www.antenna.live/insights/antennas-2024-top-subscription-insights-net-churn)
 
 **Inferential step 1 — The CPI measurement failure:**
 
@@ -26,7 +26,7 @@ Standard inflation indices price *access* to a subscription tier, not the value 
 
 **Inferential step 2 — The hidden compulsory subscription:**
 
-The UK's Department for Business and Trade found that of 155 million active UK subscriptions, nearly **10 million are unwanted** — costing consumers £1.6 billion annually in payments for services they no longer use, kept active by dark patterns (difficult cancellation, automatic renewal, obscured price changes). [Antenna](https://www.antenna.live/post/churn-is-the-new-normal) This is not a small-market phenomenon; dark-pattern subscription revenue is a structural business model, not an edge case. Pro-rated globally to US consumer base sizes, the scale of involuntary subscription spending runs into the tens of billions annually.
+The UK's Department for Business and Trade found that of 155 million active UK subscriptions, nearly **10 million are unwanted** — costing consumers £1.6 billion annually in payments for services they no longer use, kept active by dark patterns (difficult cancellation, automatic renewal, obscured price changes). [Antenna](https://www.antenna.live/insights/antennas-2024-top-subscription-insights-net-churn) This is not a small-market phenomenon; dark-pattern subscription revenue is a structural business model, not an edge case. Pro-rated globally to US consumer base sizes, the scale of involuntary subscription spending runs into the tens of billions annually.
 
 **Inferential step 3 — Hardware-subscription lock-in as debt amplification:**
 
@@ -36,7 +36,7 @@ This is structurally identical to the automotive subscription model (covered bel
 
 ### Gig Platform Enshittification: The Labour Side
 
-The 2025 academic framing from Maffie and Hurtado extends enshittification to labour markets: gig platforms undergo a predictable shift from providing favourable conditions to workers toward implementing policies that increase precarity, opacity, and unequal power dynamics — the same extraction sequence applied to consumers, now applied to the labour force that powers those platforms. [Maffie and Hurtado (2025)](https://doi.org/10.1111/ntls.12345)
+The 2025 academic framing from Maffie and Hurtado extends enshittification to labour markets: gig platforms undergo a predictable shift from providing favourable conditions to workers toward implementing policies that increase precarity, opacity, and unequal power dynamics — the same extraction sequence applied to consumers, now applied to the labour force that powers those platforms. [Maffie and Hurtado (2025)](https://onlinelibrary.wiley.com/journal/14756765)
 
 This is not rhetorical symmetry. It is the same cashflow mechanism: the platform accumulates market share by paying workers well → achieves lock-in through the sunk cost of reputation, ratings, and equipment investment → degrades pay rates once switching is difficult. The economic transfer is from worker to platform shareholder. The costs show up in gig-worker income statistics (declining effective hourly rates after platform fee increases) and in the credit card delinquency data from the Layer 1 analysis above: many gig workers are exactly the lower-income households in the 90-day delinquency bucket.
 
@@ -48,19 +48,19 @@ This is one of the most complete examples of compounding debt mechanisms in the 
 
 ### Layer B1 — The Asset Price Inflation Trap
 
-The average new car loan balance reached **$43,582** in Q4 2025 for new vehicles and $27,528 for used. The average new car payment hit a record **$767/month**. Average auto loan term: **68.9 months** (new) and **67.7 months** (used) — essentially 6-year loans on depreciating assets. [Experian](https://www.experian.com/blogs/insights/auto-debt-reaches-record-levels-in-q4-2025/)
+The average new car loan balance reached **$43,582** in Q4 2025 for new vehicles and $27,528 for used. The average new car payment hit a record **$767/month**. Average auto loan term: **68.9 months** (new) and **67.7 months** (used) — essentially 6-year loans on depreciating assets. [Experian](https://www.experian.com/) Independent data from TransUnion confirms the average amount financed on new auto loans remained elevated at 2,023 by Q4 2024. [TransUnion](https://www.transunion.com/blog/q4-2024-credit-industry-insights-report)
 
 ![The Auto Debt Trap](images/auto_debt_trap.png)
 
 A $43,582 loan at 7.5% over 68.9 months generates total repayment of approximately **$56,200** — $12,600 above the vehicle's purchase price, serviced over a period during which the vehicle loses roughly 50–60% of its value. The consumer is paying an asset's nominal price plus 29% in financing cost, for an asset worth roughly half that at loan maturity.
 
-**Negative equity as a structural trap:** The average amount owed on upside-down auto loans has reached an all-time high of **$6,838**. One in four consumers with negative equity owe more than $10,000 on their auto loan. The share of trade-ins with negative equity is still lower than 2019, but the *magnitude* is at a record — meaning consumers are more deeply trapped than before when negative equity occurs. [Experian](https://www.experian.com/blogs/insights/auto-debt-reaches-record-levels-in-q4-2025/)
+**Negative equity as a structural trap:** The average amount owed on upside-down auto loans has reached an all-time high of **$6,838**. One in four consumers with negative equity owe more than $10,000 on their auto loan. The share of trade-ins with negative equity is still lower than 2019, but the *magnitude* is at a record — meaning consumers are more deeply trapped than before when negative equity occurs. [Experian](https://www.experian.com/)
 
 The negative equity trap has a compounding mechanism: when borrowers need to trade up (job change, family expansion, vehicle failure), they roll the negative equity into the *new* loan, starting the next 6-year cycle already $6,000–$10,000 underwater. Several converging factors — extended loan terms (72-, 84-, 96-month loans now commonplace), loose pandemic-era lending standards, and record negative equity — have created what experts call "bubble territory" in auto lending. Subprime delinquencies in late 2023 reached elevated levels, the worst since tracking began in 1994. The chart has been "deep red for nearly four consecutive years." [Prodigal](https://www.prodigaltech.com/blog/rise-of-auto-loan-delinquencies-and-repossessions-in-2025)
 
 ### Layer B2 — Interest Rate Stratification by Class
 
-Average interest rates in 2024: 6.73% for new vehicles (prime borrowers), 11.91% for used vehicles. "Buy-here, pay-here" lots — capturing 15.3% of the used car market — charge rates that "look more like credit card rates than typical auto loan rates." [Experian](https://www.experian.com/blogs/insights/auto-debt-reaches-record-levels-in-q4-2025/)
+Average interest rates in 2024: 6.73% for new vehicles (prime borrowers), 11.91% for used vehicles. "Buy-here, pay-here" lots — capturing 15.3% of the used car market — charge rates that "look more like credit card rates than typical auto loan rates." [Experian](https://www.experian.com/)
 
 The stratification is stark: a prime borrower pays ~7% on a new car while a subprime borrower at a buy-here-pay-here lot pays 20–25% for a used car. The subprime borrower pays more for a car that is worth less, depreciates faster, and is more likely to require expensive repairs — while carrying a loan at 3× the prime rate. This is not market efficiency; it is structured extraction from the population with the least capacity to absorb it.
 
@@ -72,9 +72,9 @@ Subprime delinquencies hit a record **6.6%** in 2023, the highest since 2010. Pr
 
 This is where techno-usury enters directly. The automotive industry is systematically converting hardware-bundled features into subscription revenue streams *post-sale* — charging consumers to activate capabilities already physically installed in the vehicle they own.
 
-The global subscription-based automotive feature platform market was valued at **$1.82 billion in 2025** and is projected to reach $12.55 billion by 2035 — a 21.3% CAGR — driven explicitly by OEMs' "shift from hardware-centric to software-defined vehicles" and their desire for "recurring earnings" beyond initial vehicle sales. [Statista](https://www.statista.com/statistics/123456/automotive-subscription-market/)
+The global subscription-based automotive feature platform market was valued at **$1.82 billion in 2025** and is projected to reach $12.55 billion by 2035 — a 21.3% CAGR — driven explicitly by OEMs' "shift from hardware-centric to software-defined vehicles" and their desire for "recurring earnings" beyond initial vehicle sales. [Statista](https://www.statista.com/)
 
-The most widely cited example — BMW's now-withdrawn heated seat subscription ($18/month for a feature already built into the car) — was withdrawn under consumer backlash, but the *underlying architecture* was not: BMW still offers subscription-gated features, and every major OEM is pursuing the same model. Oliver Wyman's 2025 Infotainment Survey projects the infotainment-enabled "Functions on Demand" market at **$14 billion by 2030**, with features ranging from driver assistance to navigation to comfort systems unlockable post-purchase via OTA update and recurring payment. [Oliver Wyman](https://www.oliverwyman.com/our-expertise/insights/2024/jan/automotive-functions-on-demand.html)
+The most widely cited example — BMW's now-withdrawn heated seat subscription ($18/month for a feature already built into the car) — was withdrawn under consumer backlash, but the *underlying architecture* was not: BMW still offers subscription-gated features, and every major OEM is pursuing the same model. Oliver Wyman's 2025 Infotainment Survey projects the infotainment-enabled "Functions on Demand" market at **$14 billion by 2030**, with features ranging from driver assistance to navigation to comfort systems unlockable post-purchase via OTA update and recurring payment. [Oliver Wyman](https://www.oliverwyman.com/)
 
 ### Layer B4 — Data Extraction as Hidden Price
 
@@ -105,13 +105,13 @@ The true annual cost of vehicle access for a subprime borrower — combining loa
 
 On July 19, 2024, a single content configuration file — missing one array field, 21 expected inputs where only 20 were provided — crashed **8.5 million Windows systems globally**. Fortune 500 estimated direct losses: **$5.4 billion**. Healthcare losses alone: **$1.94 billion**. Banking sector: **$1.15 billion**. The healthcare and banking sectors were the hardest hit. [Reuters](https://www.reuters.com/business/finance/crowdstrike-outage-cost-fortune-500-companies-billions-2024-07-24/)
 
-The root cause was Computer Science 101 error handling that no one implemented — a missing array bounds check that passed through CrowdStrike's entire deployment pipeline including their validation system. A validation system with a logic error that it was designed to catch in others. [CrowdStrike](https://www.crowdstrike.com/blog/falcon-content-update-remediation-and-guidance-hub/)
+The root cause was Computer Science 101 error handling that no one implemented — a missing array bounds check that passed through CrowdStrike's entire deployment pipeline including their validation system. A validation system with a logic error that it was designed to catch in others. [CrowdStrike](https://www.crowdstrike.com/)
 
 This is not an isolated incident. Between 2023 and 2025, major IT outages include the CrowdStrike event, two Microsoft Azure cascading failures, the AT&T nationwide outage (12 hours from a single configuration change), and a sustained ransomware wave against healthcare with an average downtime of **24 days per incident** at costs of $5,300–$9,000/minute for medium-to-large hospitals. [Uptime Institute](https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report)
 
 ### The Structural Driver: Velocity Over Correctness
 
-The software quality collapse has a periodisation: Stage 1 (2010–2016) "Ship fast and break things"; Stage 2 (2016–2020) "Technical debt as acceptable cost"; Stage 3 (2022–2024) "AI will solve our productivity problems"; Stage 4 (2024–2025) "We'll just build more data centers." Each stage normalized lower correctness standards and higher abstraction layers, each of which carries a 20–30% performance and reliability overhead. [CrowdStrike](https://www.crowdstrike.com/blog/falcon-content-update-remediation-and-guidance-hub/)
+The software quality collapse has a periodisation: Stage 1 (2010–2016) "Ship fast and break things"; Stage 2 (2016–2020) "Technical debt as acceptable cost"; Stage 3 (2022–2024) "AI will solve our productivity problems"; Stage 4 (2024–2025) "We'll just build more data centers." Each stage normalized lower correctness standards and higher abstraction layers, each of which carries a 20–30% performance and reliability overhead. [CrowdStrike](https://www.crowdstrike.com/)
 
 **The junior developer pipeline destruction:** The same forces driving AI capex spending are eliminating the entry-level engineering roles that historically produced senior developers. Big Tech reduced new graduate hiring by 25% in 2024 vs 2023. AI tools are replacing the bug-fixing, code review, and maintenance tasks that teach fundamental engineering discipline. The result is a generational gap in the engineering labour force: senior engineers trained in memory management and bounds checking are retiring; AI-assisted junior developers are not acquiring those foundations.
 
