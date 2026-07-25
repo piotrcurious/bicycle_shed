@@ -26,7 +26,7 @@ These two trends are *not* in tension — they are causally related. Produced ca
 
 ### Layer 1.2: Ecosystem Service Collapse — The $729 Billion Pollinator Single Point of Failure
 
-A 2023 research by Feuerbacher et al. — using the most recent bioeconomic crop-dependency data in a global partial equilibrium model covering 120 edible crops across 22 regions — finds that a global pollinator collapse would raise crop prices by **30%** and produce a global welfare loss of **$729 billion — equivalent to 0.9% of global GDP** and 15.6% of global agricultural production value. [Feuerbacher et al. (2025)](https://doi.org/10.1016/j.ecolecon.2024.108428) It would also cause an **8% reduction in global Vitamin A availability**, with severe downstream effects on child mortality and development. These estimates substantially exceed earlier modeling, which the paper identifies as methodologically flawed. Other studies warn that China, the EU, and the US have the highest absolute GDP exposed to nature loss, totaling over  trillion. [Zero Carbon Analytics](https://zerocarbon-analytics.org/insights/briefings/finding-economic-value-in-nature-beyond-carbon/)
+A 2023 research by Feuerbacher et al. — using the most recent bioeconomic crop-dependency data in a global partial equilibrium model covering 120 edible crops across 22 regions — finds that a global pollinator collapse would raise crop prices by **30%** and produce a global welfare loss of **$729 billion — equivalent to 0.9% of global GDP** and 15.6% of global agricultural production value. [Feuerbacher et al. (2025)](https://doi.org/10.1016/j.ecolecon.2024.108428) It would also cause an **8% reduction in global Vitamin A availability**, with severe downstream effects on child mortality and development. These estimates substantially exceed earlier modeling, which the paper identifies as methodologically flawed. Other studies warn that China, the EU, and the US have the highest absolute GDP exposed to nature loss, totaling over $2.7 trillion. [Zero Carbon Analytics](https://zerocarbon-analytics.org/insights/briefings/finding-economic-value-in-nature-beyond-carbon/)
 
 This is a single ecosystem service, from a single taxonomic group, under a single collapse scenario. The number — $729 billion annually, indefinitely — is not a tail risk. It is a trajectory from a current trend. A Nature Communications paper (2023) modeling European pollinator collapse specifically by 2030 confirms: European crop yields would fall 8%, net exports would decline, and global annual welfare losses would reach **€34 billion**, concentrated in EU states that are actively resisting biodiversity-protective policies. [European Commission](https://publications.jrc.ec.europa.eu/repository/handle/JRC121650)
 
@@ -43,6 +43,22 @@ The FAO *State of Food and Agriculture 2023* background paper establishes the ca
 The soil degradation cost is particularly relevant because it is *slow*, *irreversible on human timescales*, and **not reflected in any current national account**. A farmer mining soil organic carbon — extracting yield today at the cost of future productivity — appears identical to a farmer sustainably maintaining soil in GDP statistics. The wealth destruction is invisible until it becomes agronomic failure.
 
 **Rate inference on soil:** Soil formation rate is approximately 1cm per 500 years under natural conditions. Current erosion rates in conventionally farmed land average 1–3mm/year — meaning intensive agriculture consumes soil **10–100× faster than it forms**. This is a physical constraint with a terminal date, not a policy problem with a gradual solution.
+
+### Layer 1.4: Marine Natural Capital Erosion — Blue Carbon Liquidation
+
+While terrestrial natural capital (forests, agricultural land) is tracked in the World Bank’s Changing Wealth of Nations (CWON) framework, marine natural capital has historically been omitted, leading to severe underestimations of wealth depletion. Coastal marine ecosystems—specifically mangroves, seagrasses, and salt marshes (collectively termed "blue carbon" habitats)—sequester carbon at rates up to **10 times faster per hectare** than terrestrial tropical rainforests [IPCC Special Report on the Ocean and Cryosphere](https://www.ipcc.ch/srocc/).
+
+This critical capital stock is being liquidated at an alarming rate. Mangroves are declining globally at **1–2% annually**, while seagrass meadows have lost over **30% of their historical coverage** since 1879, with modern loss rates accelerating to 110 square kilometers per year [UNEP (2022)](https://www.unep.org/resources/report/state-finance-nature-2022).
+
+This liquidation represents an unrecorded wealth loss. Valued at a conservative social cost of carbon of $190 per tonne (EPA 2024 standard), the ongoing destruction of blue carbon habitats represents a global capital loss of **$40 billion to $90 billion annually** [World Bank Blue Economy Report](https://www.worldbank.org/en/topic/oceans-fisheries-and-coastal-economies). This loss does not appear in any country's Adjusted Net Savings (ANS) calculations, creating a major accounting loophole that presents resource-depleting activities as net economic growth.
+
+### Layer 1.5: Ocean Acidification and Marine Food Web Dissolution
+
+The biological foundation of ocean wealth is undergoing an irreversible chemical shift. The absorption of anthropogenic CO2 has lowered the pH of global surface waters from 8.25 to 8.14—representing a **30% increase in ocean hydrogen ion concentration (acidity)** since the pre-industrial era [IPCC Special Report on the Ocean and Cryosphere](https://www.ipcc.ch/srocc/).
+
+This acidification makes surface waters corrosive to aragonite and calcite—the calcium carbonate minerals required by shell-forming marine organisms (including pteropods, coccolithophores, and coral recruits). Pteropods, often called "sea butterflies," represent up to 60% of the zooplankton diet of pink salmon, herring, and mackerel in the North Pacific.
+
+At current CO2 emission trajectories, aragonite undersaturation will cover the entire Southern Ocean and parts of the North Pacific by **2030–2040** [IPCC Special Report on the Ocean and Cryosphere](https://www.ipcc.ch/srocc/), triggering a structural collapse of the primary marine food web. This biological collapse intersects directly with food security and sovereign wealth: marine fisheries support over **260 million jobs globally** and represent the primary animal protein source for coastal populations. The collapse of wild marine stocks represents the physical dissolution of the biological substrate supporting a global market worth **$401 billion annually** [FAO SOFA 2025](https://www.fao.org/publications/sofa/).
 
 ---
 
@@ -159,6 +175,8 @@ Converting the individual estimates to comparable annual terms:
 | Domain | Annual wealth destruction | Source/methodology |
 |---|---|---|
 | Renewable natural capital depletion | ~$3–5T/year (from 20% decline over 25 years on $100T+ natural capital stock) | World Bank CWON 2024 |
+| Blue Carbon Habitat Destruction (Mangroves, Seagrass) | ~$40–90B/year (capital liquidation valued at EPA social cost of carbon) | IPCC SROCC, UNEP, World Bank |
+| Coral Reef Ecosystem Services Erosion | ~$172B/year (loss of coastal defense, fisheries habitat, and tourism) | World Bank Blue Economy Report |
 | Pollinator-trajectory loss (current degraded service level, not full collapse) | $150–300B/year trajectory | Feuerbacher et al. (2025), *Ecological Economics* |
 | Soil fertility mining (crop-specific) | $15B/year minimum, likely $100B+ with broader ecosystem services included | Springer Nature, UNCCD |
 | E-waste material value destruction | $91B/year in unrecovered materials | Global E-waste Monitor 2024 |
@@ -188,6 +206,9 @@ The AI industry's response to model collapse is to train on more data, which is 
 **Feedback 4: Institutional trust decline → policy gridlock → inability to address any crisis → further trust decline**
 44% of OECD residents have low or no trust in national government [OECD (2024)](https://www.oecd.org/en/publications/oecd-trust-survey-2024_67bb8fac-en.html) — the coordination mechanism required to address every problem in this analysis. Trust decline is simultaneously a consequence of all the other problems and a cause of inability to solve them.
 
+**Feedback 5: Blue carbon degradation → accelerated carbon accumulation → faster ocean acidification → marine food web collapse → coastal protein and economic insolvency**
+The physical destruction of coastal blue carbon habitats reduces the ocean's capacity to absorb CO2, leaving more carbon in the atmosphere, which accelerates ocean warming and acidification. Acidification dissolves the base of the marine food web, collapsing commercial fisheries, which destroys the primary protein and income source of coastal nations, forcing them to import expensive food with foreign-denominated debt, accelerating sovereign default.
+
 ### Iteration 3 — Estimating the Crisis Timeline
 
 The conventional economic crisis model — a liquidity event, a credit crunch, a market correction — does not apply well here. What we are describing is a *depletion trajectory* with multiple simultaneous drawdowns on interconnected capital stocks. The trajectory question is: at what point do the depletion rates exceed the regeneration and substitution rates across enough domains simultaneously to trigger a non-linear system response?
@@ -201,6 +222,8 @@ The conventional economic crisis model — a liquidity event, a credit crunch, a
 | **AI capex ROI failure** | Hyperscaler capex cycle requires external refinancing before AI revenue materializes | 2027–2028 window per Goldman Sachs timeline; GPU depreciation cliff concurrent |
 | **Pollinator-crop price feedback** | Wild pollinator populations below critical threshold for yield stability | Ongoing; EU approaching meaningful yield impact by 2030 per Nature Communications |
 | **Soil productivity decline** | Yield gap widening becoming visible in staple crop output | Already visible in model data; meaningful food system stress ~2030–2040 |
+| **Blue carbon and marine food web collapse** | Aragonite undersaturation in high-latitude oceans, dissolving pteropod shells | IPCC projects 2030–2040 under high-emission scenarios; ongoing local collapses |
+| **Coral reef economic asset collapse** | Over 90% of global coral reefs bleached or degraded, losing coastal storm buffers | IPCC projects 99% loss at 2.0°C warming; target threshold ~2035–2045 |
 | **Model collapse in AI systems** | Next-generation AI trained substantially on contaminated corpus shows measurable performance regression | Theoretical onset already — timeline to practical impact depends on mitigation; likely 3–7 years absent intervention |
 | **Mental health / institutional trust** | Governance capacity below threshold for crisis coordination | No precise threshold — gradual erosion already underway; compounding with each economic shock |
 
@@ -218,6 +241,7 @@ A recession in the 2024-2026 period (likely given tariff shock + AI ROI gap + so
 
 Concurrently (not caused by the recession but not dampened by it either):
 - Soil and pollinator trajectories continue independently, raising food input costs into the inflationary environment created by the financial stress
+- Blue carbon and marine food web degradation accelerate, dismantling coastal livelihoods and protein supplies globally
 - AI slop continues flooding the information environment, degrading the epistemic commons on which crisis response coordination depends
 - Mental health crisis deepens under economic stress, reducing the cognitive and motivational capacity of the labor force expected to generate the growth needed to service the debt
 
