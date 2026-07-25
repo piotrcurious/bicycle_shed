@@ -34,6 +34,14 @@ The wellness hardware category illustrates the most aggressive form: Oura Ring (
 
 This is structurally identical to the automotive subscription model (covered below) and to SaaS software: the consumer pays capital upfront, then pays perpetually, and loses access to what was paid for if they stop paying. Ownership as a concept is being systematically removed from the consumer economy.
 
+### Maritime Logistics and Navigation SaaS Enshittification
+
+The extraction mechanics of enshittification have moved off-shore into the critical infrastructure of global shipping. Historically, vessel navigation and logistics relied on open-standard radio beaconry, physical charts, and decentralized port coordination. Over the past decade, these have been systematically enclosed by proprietary software-defined platforms.
+
+Vessel operators are now captive to consolidated maritime logistics suites (e.g., automated port-call optimization systems and proprietary route-planning APIs). Once a shipping line integrates its vessel scheduling and billing with a platform (such as digital freight booking systems or private terminal management software), switching costs become prohibitive.
+
+With lock-in achieved, platforms systematically extract higher rents. Premium maritime Automatic Identification System (AIS) and weather-routing APIs have implemented subscription price increases of **15–25% annually**, while degrading access tiers, capping API calls, and gating previously standard navigation safety overlays behind enterprise subscription walls. Shipments of goods are subjected to recurring "container-tracking subscription fees" to access real-time location data, extracting perpetual rent from a service whose marginal cost is near zero.
+
 ### Gig Platform Enshittification: The Labour Side
 
 The 2025 academic framing from Maffie and Hurtado extends enshittification to labour markets: gig platforms undergo a predictable shift from providing favourable conditions to workers toward implementing policies that increase precarity, opacity, and unequal power dynamics — the same extraction sequence applied to consumers, now applied to the labour force that powers those platforms. [Maffie and Hurtado (2025)](https://onlinelibrary.wiley.com/journal/14756765)
@@ -84,18 +92,25 @@ The consumer paid the full sticker price for the vehicle. The OEM is then sellin
 
 **Insurance feedback loop:** GM's Q4 2024 launch of a data-driven insurance product leveraging real-time connected vehicle data, and GM's Q1 2025 partnership with Verizon to provide vehicle data to insurers, represent the direct monetisation of this surveillance: the consumer's driving data, sold to insurers, is used to price insurance premiums. [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/automotive-data-monetization-market-100.html) If the data reveals high-risk behaviour, the consumer faces higher premiums — derived from data they unknowingly generated on a vehicle they purchased.
 
-### Layer B5 — The Compounded Stack
+---
 
-A working-class consumer buying a used vehicle on credit in 2026 faces:
+## MODULE B2: MARITIME TECHNO-USURY — Floating Data-Collection Hubs
 
-1. Asset purchased at pandemic-inflated price (2021–2023 vintage, still elevated)
-2. Loan at 11–25% APR depending on credit quality
-3. 67-month term ensuring persistent negative equity
-4. Software-gated features requiring subscription to access on hardware already owned
-5. Driving data sold to insurers and third parties, potentially increasing insurance premium
-6. Potential roll-in of negative equity from previous vehicle into current loan
+The full-stack debt extraction model of modern automotive techno-usury is being replicated at scale on the oceans, transforming merchant vessels into floating, proprietary data-collection terminals subjected to monopoly service locks.
 
-The true annual cost of vehicle access for a subprime borrower — combining loan service, subscriptions, insurance uplift from data-driven pricing, and fuel — can exceed 30–40% of disposable income for lower-income households. Transportation is not optional. These consumers cannot exit the system. The extraction operates on captive demand.
+### Layer M1 — Propulsion Hardware and Subscription-Lock Diagnostics
+
+A modern container ship or bulk carrier is powered by electronically controlled, two-stroke marine diesel engines (e.g., manufactured by MAN Energy Solutions or Wärtsilä). These engines are equipped with thousands of IoT sensors transmitting real-time performance data back to the manufacturer via satellite.
+
+Under the guise of emission compliance and fuel efficiency optimization, manufacturers have implemented proprietary diagnostic locks. A vessel's crew is physically locked out of the engine's control software. When an injector fault or electronic timing misalignment occurs, the ship's crew cannot perform repairs independently—even if they possess the mechanical parts and expertise.
+
+Instead, the ship operator must pay for a specialized manufacturer technician to fly to the next port of call, carrying proprietary encryption keys to unlock the diagnostic software, costing **$5,000 to $20,000 per incident** plus vessel demurrage. Alternatively, shipowners are forced into multi-year "Equipment Performance-as-a-Service" (EPaaS) subscriptions, costing **$50,000 to $120,000 per vessel annually** just to maintain access to their own engine's operating data. This converts a durable capital purchase (the vessel) into a perpetual operating expenditure with no exit.
+
+### Layer M2 — GPS Spoofing and Satellite Quality Collapse
+
+The software quality collapse analyzed in Module C has direct, high-stakes consequences on the oceans. Over 99% of global merchant shipping relies on the Global Positioning System (GPS) and Electronic Chart Display and Information Systems (ECDIS) for navigation.
+
+Between 2023 and 2026, GPS spoofing and jamming incidents in the Baltic Sea, Black Sea, and Eastern Mediterranean surged by **over 400%**, directly affecting thousands of commercial vessels [International Maritime Organization](https://www.imo.org/). These software and signal vulnerabilities—unresolved by legacy hardware architectures—force vessels to deviate from optimal routes or drop anchor, causing port congestion and supply chain delays. A single satnav outage at a major automated terminal (such as Rotterdam or Shanghai) can halt automated guided vehicles (AGVs) and port cranes, racking up container delay costs of **$300,000 per hour** [Uptime Institute](https://uptimeinstitute.com/resources/asset/2024-outage-analysis-report).
 
 ---
 
@@ -125,16 +140,18 @@ Cloud outage costs for large enterprises range from **$300,000 to $5 million+ pe
 
 ## SYNTHESIS: All Layers Compounding
 
-The picture that emerges across all five modules is a unified transfer architecture:
+The picture that emerges across all six modules is a unified transfer architecture:
 
 **From consumer to platform/OEM/lender, at every level of the economy:**
 
-| Transfer mechanism | Extraction rate | Consumer exit option |
+| Transfer mechanism | Extraction rate | Consumer/Operator exit option |
 |---|---|---|
 | Credit card revolving at 22% APR | ~22% on outstanding balance annually | Low; essential-spending debt |
 | Auto loan on depreciating asset at 7–25% | ~7–29% total financing cost over asset life | Near-zero; transportation is mandatory |
 | Connected car subscription on pre-installed hardware | OEM margin on hardware already sold | None without losing paid-for capability |
 | Connected car data monetization | OEM extracts surveillance value; consumer receives nothing | None in modern connected vehicles |
+| Maritime SaaS APIs / AIS tracking | 15–25% annual premium increases | Zero; navigation safety requires real-time data |
+| Proprietary Marine Engine EPaaS | $50k–$120k/vessel annually under monopoly lock | None; engine software is proprietary and locked |
 | Enshittification of subscription services | Price increases + quality decline simultaneously | Low; dark patterns, ecosystem lock-in |
 | Software quality failures / outages | $300K–$5M+/hour absorbed by enterprise customers | SLA credits cover <10% of actual damage |
 
